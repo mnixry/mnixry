@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mnixry&show_icons=true&count_private=true" />
+  <img align="right" src="https://metrics.lecoq.io/mnixry?template=terminal" />
 </a>
 
 ![](https://count.getloli.com/get/@mnixry)
