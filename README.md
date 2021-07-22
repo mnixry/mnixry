@@ -1,10 +1,12 @@
-# Hi there 👋
-
 <a href="#">
   <img align="right" src="https://metrics.lecoq.io/mnixry?template=terminal" />
 </a>
 
-![](https://count.getloli.com/get/@mnixry)
+# Hi there 👋
+
+![Total Visitors](https://count.getloli.com/get/@mnixry?theme=rule34)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mnixry&layout=compact)
 
 ## I'm **mnixry**
 
