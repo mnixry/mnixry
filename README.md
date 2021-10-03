@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on learning ~~as a 24-year-old student~~
 - 🌱 I’m currently learning: Django, Go
 - 👯 I’m collaborating on: [mixmoe](https://github.com/mixmoe) [NoneBot](https://github.com/nonebot)
-- 📫 How to reach me: admin#
+- 📫 How to reach me: admin#obfs.dev
 
 ## 🚉 **Developing Tools&Platforms**
 
