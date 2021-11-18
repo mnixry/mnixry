@@ -1,6 +1,6 @@
-<a href="#">
+<div href="#">
   <img align="right" src="https://metrics.lecoq.io/mnixry?template=terminal" />
-</a>
+</div>
 
 # Hi there 👋
 
