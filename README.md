@@ -1,6 +1,6 @@
-<div href="#">
+<a href="#">
   <img align="right" src="https://metrics.lecoq.io/mnixry?template=terminal" />
-</div>
+</a>
 
 # Hi there 👋
 
@@ -8,11 +8,14 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mnixry&layout=compact)
 
-## I'm **mnixry**
+## I'm **Mix**
 
-- 🔭 I’m currently working on learning ~~as a 24-year-old student~~
-- 🌱 I’m currently learning: Django, Go
+- 🔭 I’m currently working on noting
+
+- 🌱 I’m currently learning: Go, Kotlin, Rust and more!
+
 - 👯 I’m collaborating on: [mixmoe](https://github.com/mixmoe) [NoneBot](https://github.com/nonebot)
+
 - 📫 How to reach me: admin#obfs.dev
 
 ## 🚉 **Developing Tools&Platforms**
