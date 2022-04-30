@@ -1,8 +1,8 @@
-# Hi there 👋
-
 <a>
-  <img align="right" src="./github-metrics.svg" />
+  <img align="right" width="500px" src="./github-metrics.svg" />
 </a>
+
+# Hi there 👋
 
 ![Total Visitors](https://count.getloli.com/get/@mnixry?theme=rule34)
 
