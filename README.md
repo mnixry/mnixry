@@ -1,8 +1,8 @@
-<a href="#">
-  <img align="right" src="https://metrics.lecoq.io/mnixry?template=terminal" />
-</a>
-
 # Hi there 👋
+
+<a>
+  <img align="right" src="./github-metrics.svg" />
+</a>
 
 ![Total Visitors](https://count.getloli.com/get/@mnixry?theme=rule34)
 
