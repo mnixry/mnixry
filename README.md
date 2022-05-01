@@ -1,11 +1,11 @@
-<a>
-  <img align="right" width="400px" src="./github-metrics.svg" />
-</a>
-
 # Hi there 👋
 
+<a>
+  <img align="right" width="450px" src="./github-metrics.svg" />
+</a>
+
 <p align="center">
-  <img src="https://count.getloli.com/get/@mnixry?theme=rule34"></img>
+  <img width="300px" src="https://count.getloli.com/get/@mnixry?theme=rule34"></img>
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnixry&layout=compact"></img>
 </p>
 
