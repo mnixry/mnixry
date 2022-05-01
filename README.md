@@ -1,12 +1,12 @@
 <a>
-  <img align="right" width="500px" src="./github-metrics.svg" />
+  <img align="right" width="400px" src="./github-metrics.svg" />
 </a>
 
 # Hi there 👋
 
 <p align="center">
   <img src="https://count.getloli.com/get/@mnixry?theme=rule34"></img>
-  <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnixry&layout=compact"></img>
+  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnixry&layout=compact"></img>
 </p>
 
 ## I'm **Mix**
