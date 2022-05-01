@@ -4,9 +4,10 @@
 
 # Hi there 👋
 
-![Total Visitors](https://count.getloli.com/get/@mnixry?theme=rule34)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mnixry&layout=compact)
+<p align="center">
+  <img src="https://count.getloli.com/get/@mnixry?theme=rule34"></img>
+  <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnixry&layout=compact"></img>
+</p>
 
 ## I'm **Mix**
 
