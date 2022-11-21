@@ -15,14 +15,14 @@
 
 - 🌱 I’m currently learning: Go, Kotlin, Rust and more!
 
-- 👯 I’m collaborating on: [mixmoe](https://github.com/mixmoe) [NoneBot](https://github.com/nonebot)
+- 👯 I’m collaborating on: [mixmoe](https://github.com/mixmoe) and [NoneBot](https://github.com/nonebot)
 
-- 📫 How to reach me: admin#obfs.dev
+- 📫 How to reach me: `base64.decode(YWRtaW5Ab2Jmcy5kZXY)`
 
 ## 🚉 **Developing Tools&Platforms**
 
-![](https://img.shields.io/badge/Manjaro-35bf5c?style=flat-square&logo=manjaro&logoColor=fff)
-![](https://img.shields.io/badge/Windows10-0078d6?style=flat-square&logo=windows&logoColor=fff)
+![](https://img.shields.io/badge/Linux-Manjaro-35bf5c?style=flat-square&logo=manjaro&logoColor=fff)
+![](https://img.shields.io/badge/Windows-11-0078d6?style=flat-square&logo=windows&logoColor=fff)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)
 
 ## 🌟 **My Skills**  
