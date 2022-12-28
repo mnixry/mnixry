@@ -19,5 +19,6 @@ jobs:
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v7.2.1
         with:
-          branch: main
+          committer_name: GitHub Actions
+          committer_email: 41898282+github-actions[bot]@users.noreply.github.com
           message: 'Generate Contribution Snake - [Skip GitHub Action]'
