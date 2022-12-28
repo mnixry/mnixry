@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![GitHub Snake](assets/github-contribution-grid-snake.svg)
+
 <a>
   <img align="right" width="450px" src="./github-metrics.svg" />
 </a>
