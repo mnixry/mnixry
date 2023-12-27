@@ -1,0 +1,35 @@
+name: update awesome-stars
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 30 0 * * *
+jobs:
+  awesome-stars:
+    name: Update awesome-stars
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pipx install starred
+
+      - name: update repo category by topic
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{ env.REPOSITORY_NAME }}
+          USERNAME: ${{ github.repository_owner }}
+        run: |
+          starred \
+            --username ${USERNAME} \
+            --repository ${REPOSITORY} \
+            --sort \
+            --token ${GITHUB_TOKEN} \
+            --message 'awesome-stars category by topic update [Skip GitHub Action]' \
+            --topic \
+            --topic_limit 500 \
+            --filename STARRED.md
