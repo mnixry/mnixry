@@ -2,6 +2,7 @@ name: Update awesome-stars
 
 on:
   workflow_dispatch:
+  push:
   schedule:
     - cron: 30 0 * * *
 
@@ -26,8 +27,7 @@ jobs:
             --username ${{ github.repository_owner }} \
             --token ${{ secrets.GITHUB_TOKEN }} \
             --topic \
-            --topic_limit 500 \
-            --filename STARRED.md
+            --topic_limit 500 > STARRED.md
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
