@@ -1,8 +1,10 @@
-name: update awesome-stars
+name: Update awesome-stars
+
 on:
   workflow_dispatch:
   schedule:
     - cron: 30 0 * * *
+
 jobs:
   awesome-stars:
     name: Update awesome-stars
@@ -16,20 +18,20 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pipx install starred
+          python -m pip install --upgrade pip
+          pip install starred
 
       - name: update repo category by topic
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPOSITORY: ${{ env.REPOSITORY_NAME }}
-          USERNAME: ${{ github.repository_owner }}
         run: |
           starred \
-            --username ${USERNAME} \
-            --repository ${REPOSITORY} \
             --sort \
-            --token ${GITHUB_TOKEN} \
-            --message 'awesome-stars category by topic update [Skip GitHub Action]' \
+            --token ${{ secrets.GITHUB_TOKEN }} \
             --topic \
             --topic_limit 500 \
             --filename STARRED.md
+
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
+          message: "Awesome stars update - [Skip GitHub Action]"
