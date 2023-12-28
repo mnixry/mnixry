@@ -1751,6 +1751,7 @@
 
 ## others 
 
+- [bravomail/tinier11](https://github.com/bravomail/tinier11) - This is a script to automate the build of a streamlined Windows 10/11 image, similar to tiny11.
 - [saicaca/fuwari](https://github.com/saicaca/fuwari) - A static blog template built with Astro.
 - [mroonga/mroonga](https://github.com/mroonga/mroonga) - A MySQL pluggable storage engine based on Groonga
 - [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
