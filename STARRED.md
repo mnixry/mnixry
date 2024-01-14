@@ -1293,6 +1293,7 @@
 
 ## javascript 
 
+- [ben-sb/obfuscator-io-deobfuscator](https://github.com/ben-sb/obfuscator-io-deobfuscator) - A deobfuscator for scripts obfuscated by Obfuscator.io
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [0x48piraj/fadblock](https://github.com/0x48piraj/fadblock) - Friendly Adblock for YouTube: A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Opera and Firefox.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -1615,7 +1616,7 @@
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
 - [40t/go-sniffer](https://github.com/40t/go-sniffer) - 🔎Sniffing and parsing mysql,redis,http,mongodb etc protocol. 抓包截取项目中的数据库请求并解析成相应的语句。
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.
 - [Baiyuetribe/kamiFaka](https://github.com/Baiyuetribe/kamiFaka) - 一款基于VUE3.0的高颜值卡密发卡系统，特别适合虚拟商品、知识付费等。
 - [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System
@@ -2290,7 +2291,7 @@
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.
 - [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
@@ -2561,6 +2562,7 @@
 
 ## reverse-engineering 
 
+- [ben-sb/obfuscator-io-deobfuscator](https://github.com/ben-sb/obfuscator-io-deobfuscator) - A deobfuscator for scripts obfuscated by Obfuscator.io
 - [wux1an/wxapkg](https://github.com/wux1an/wxapkg) - 微信小程序反编译工具，.wxapkg 文件扫描 + 解密 + 解包工具
 - [eteran/edb-debugger](https://github.com/eteran/edb-debugger) - edb is a cross-platform AArch32/x86/x86-64 debugger.
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
@@ -2615,7 +2617,7 @@
 - [sayanarijit/qrcode.show](https://github.com/sayanarijit/qrcode.show) - [WORKING PROTOTYPE] Generate QR code easily for free - QR Code Generation as a Service
 - [hora-search/hora](https://github.com/hora-search/hora) - 🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -2725,7 +2727,7 @@
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 
@@ -2743,7 +2745,7 @@
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 
