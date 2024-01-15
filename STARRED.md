@@ -122,6 +122,7 @@
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
+- [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -1558,6 +1559,11 @@
 - [lz233/OneText_For_Android](https://github.com/lz233/OneText_For_Android) - A neat little application that can display some custom sentences through widgets on the launcher.
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
+## microsoft 
+
+- [victorlish/Convert_to_Windows_10_LTSC](https://github.com/victorlish/Convert_to_Windows_10_LTSC) - Convert Windows 10 to Windows 10 Enterprise LTSC.
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## minecraft 
 
