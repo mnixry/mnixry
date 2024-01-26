@@ -230,7 +230,7 @@
 
 ## analytics 
 
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search & Analytics
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 
 ## android 
@@ -672,7 +672,7 @@
 ## database 
 
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search & Analytics
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics
 - [ravendb/ravendb](https://github.com/ravendb/ravendb) - ACID Document Database
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [symisc/unqlite](https://github.com/symisc/unqlite) - An Embedded NoSQL, Transactional Database Engine
@@ -1796,7 +1796,7 @@
 - [shigma/typed-eval](https://github.com/shigma/typed-eval) - Type-based calculation does right with TypeScript
 - [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 - [crosstool-ng/crosstool-ng](https://github.com/crosstool-ng/crosstool-ng) - A versatile (cross-)toolchain generator.
-- [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime) - Userspace eBPF runtime for fast Uprobe & Syscall hook & Plugins
+- [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime) - Userspace eBPF runtime for fast Uprobe & Syscall hook & Extensions
 - [CjangCjengh/YakuYaku](https://github.com/CjangCjengh/YakuYaku) - 翻译姬：致力于小众领域的机器翻译
 - [RickdeJager/CVE-2023-4911](https://github.com/RickdeJager/CVE-2023-4911) - CVE-2023-4911 proof of concept
 - [lem0nSec/ShellGhost](https://github.com/lem0nSec/ShellGhost) - A memory-based evasion technique which makes shellcode invisible from process start to end.
