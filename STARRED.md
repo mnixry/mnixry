@@ -1767,6 +1767,7 @@
 
 ## others 
 
+- [r0oth3x49/ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux
 - [mist64/msbasic](https://github.com/mist64/msbasic) - Microsoft BASIC for 6502 (Commodore, Apple, KIM-1, AIM-65, OSI, ...)
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
