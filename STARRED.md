@@ -1853,7 +1853,7 @@
 - [python-cmake-buildsystem/python-cmake-buildsystem](https://github.com/python-cmake-buildsystem/python-cmake-buildsystem) - A cmake buildsystem for compiling Python
 - [notscuffed/repkg](https://github.com/notscuffed/repkg) - Wallpaper engine PKG extractor/TEX to image converter
 - [vladmandic/automatic](https://github.com/vladmandic/automatic) - SD.Next: Advanced Implementation of Stable Diffusion and other Diffusion-based generative image models
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (109 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
 - [chibd2000/myscan](https://github.com/chibd2000/myscan) - 构建信息搜集/漏洞扫描
 - [zkonge/ultralight-rs](https://github.com/zkonge/ultralight-rs) - Ultralight API binding for Rust.  Focusing on using the lightweight headless browser as renderer.
