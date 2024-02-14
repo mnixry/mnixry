@@ -2375,7 +2375,6 @@
 ## python 
 
 - [oskaerik/theevalgame](https://github.com/oskaerik/theevalgame) - Test your Python skills!
-- [fern-api/fern-python](https://github.com/fern-api/fern-python) - Generate Python models, clients, and server interface from your API definition.
 - [mixmoe/HibiAPI](https://github.com/mixmoe/HibiAPI) - 一个实现了多种常用站点的易用化API的程序 / A program that implements easy-to-use APIs for a variety of commonly used sites.
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines (fast HTML5 parser with CSS selectors).
