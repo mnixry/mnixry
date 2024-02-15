@@ -1878,7 +1878,7 @@
 - [TeamPGM/PagerMaid-Pyro](https://github.com/TeamPGM/PagerMaid-Pyro) - Advanced Multi-Featured Telegram UserBot by pyrogram.
 - [yingjunwu/DBMS-Indexology](https://github.com/yingjunwu/DBMS-Indexology) - A Collection of Papers on Database Index Structures
 - [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
-- [UniiemStudio/CTFever](https://github.com/UniiemStudio/CTFever) - A fantastic toolkit for CTFers and everyone :toolbox:
+- [UniiemStudio/CTFever](https://github.com/UniiemStudio/CTFever) - Fantastic toolkit for CTFers and everyone.
 - [python-cmake-buildsystem/python-cmake-buildsystem](https://github.com/python-cmake-buildsystem/python-cmake-buildsystem) - A cmake buildsystem for compiling Python
 - [notscuffed/repkg](https://github.com/notscuffed/repkg) - Wallpaper engine PKG extractor/TEX to image converter
 - [vladmandic/automatic](https://github.com/vladmandic/automatic) - SD.Next: Advanced Implementation of Stable Diffusion and other Diffusion-based generative image models
