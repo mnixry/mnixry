@@ -580,7 +580,6 @@
 - [Chocobo1/setup-ccache-action](https://github.com/Chocobo1/setup-ccache-action) - Setup ccache easily in your workflow, with all the tuning knobs you need!
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [oatpp/oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
-- [s9w/oof](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
 - [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
@@ -1795,6 +1794,7 @@
 
 ## others 
 
+- [INotGreen/XiebroC2](https://github.com/INotGreen/XiebroC2) - Go编写的多人运动渗透测试图形化框架、支持lua插件扩展、自定义多个模块、自定义shellcode、文件管理、进程管理、内存加载、反向代理等功能
 - [cordiverse/undios](https://github.com/cordiverse/undios) - Fetch-based axios-style HTTP client.
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [leohearts/AlternativeUnlockXposed](https://github.com/leohearts/AlternativeUnlockXposed) - Unlock your Android phone with an alternative PIN. (Xposed)
@@ -2035,7 +2035,7 @@
 - [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - 
 - [sea-team/gofound](https://github.com/sea-team/gofound) - GoFound GoLang Full text search go语言全文检索引擎，毫秒级查询。 使用http接口调用，集成Admin管理界面，任何系统都可以使用。
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
-- [Donokami/politiscales](https://github.com/Donokami/politiscales) - 🔍👁️‍🗨️ Updated and multilingual PolitiScales
+- [Conobi/politiscales](https://github.com/Conobi/politiscales) - 🔍👁️‍🗨️ Updated and multilingual PolitiScales
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [BlueSky-07/Shuang](https://github.com/BlueSky-07/Shuang) - :pencil2: 双拼练习
 - [cordiverse/minato](https://github.com/cordiverse/minato) - Type Driven Database Framework.
@@ -2093,6 +2093,7 @@
 - [SEAFHMC/RitsukiBot](https://github.com/SEAFHMC/RitsukiBot) - 基于Nonebot的自用QQbot
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [NWYLZW/right-click-helper](https://github.com/NWYLZW/right-click-helper) - Right button menu helper in the windows 10 enviroment
+- [s9w/oof](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [can1357/NoVmp](https://github.com/can1357/NoVmp) - A static devirtualizer for VMProtect x64 3.x. powered by VTIL.
 - [LSPosed/LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch: A non-root Xposed framework extending from LSPosed
