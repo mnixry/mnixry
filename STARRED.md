@@ -2154,7 +2154,7 @@
 - [44670/SourceHanSans-Pixel](https://github.com/44670/SourceHanSans-Pixel) - 基于思源黑体的开源像素字体
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
 - [botuniverse/cqcode-grammar-antlr](https://github.com/botuniverse/cqcode-grammar-antlr) - 
-- [FYWinds/takker](https://github.com/FYWinds/takker) - 一个基于Nonebot2和go-cqhttp的娱乐性qq机器人，持续维护更新中
+- [FYWinds/takker](https://github.com/FYWinds/takker) - 一个基于Nonebot2和go-cqhttp的娱乐性qq机器人，已停更
 - [KawaiiZapic/HidePortWorker](https://github.com/KawaiiZapic/HidePortWorker) - A worker script for Cloudflare to hide your source server port,support load balance and more.
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [rmuchan/nonebot-plugin-flexperm](https://github.com/rmuchan/nonebot-plugin-flexperm) - 精细化的 NoneBot 权限管理插件
