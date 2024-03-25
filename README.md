@@ -1,6 +1,10 @@
 # Hi there 👋
 
-![GitHub Snake](assets/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <a>
   <img align="right" width="450px" src="./github-metrics.svg" />
@@ -32,6 +36,5 @@
 ![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
-![](https://img.shields.io/badge/-Photoshop-31a8ff?style=flat-square&logo=adobe-photoshop&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=fff)
