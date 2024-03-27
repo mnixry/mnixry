@@ -1838,7 +1838,7 @@
 - [suchipi/quickjs](https://github.com/suchipi/quickjs) - Standalone or embeddable C99 JavaScript Engine
 - [efchatz/pandora](https://github.com/efchatz/pandora) - A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.
 - [Zerx0r/dvenom](https://github.com/Zerx0r/dvenom) - 🐍 Double Venom (DVenom) is a tool that provides an encryption wrapper and loader for your shellcode.
-- [zydezu/ModernX](https://github.com/zydezu/ModernX) - My fork of modernX (a replacement for MPV that retains the functionality of the default OSC), adding additional features.
+- [zydezu/ModernX](https://github.com/zydezu/ModernX) - My fork of modernX (a replacement for MPV that retains the functionality of the default OSC), adding additional features - see builds at: https://github.com/zydezu/mpvconfig
 - [g1vi/CVE-2023-2640-CVE-2023-32629](https://github.com/g1vi/CVE-2023-2640-CVE-2023-32629) - GameOver(lay) Ubuntu Privilege Escalation
 - [Enelg52/OffensiveGo](https://github.com/Enelg52/OffensiveGo) - Golang weaponization for red teamers.
 - [evilsocket/legba](https://github.com/evilsocket/legba) - A multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷
