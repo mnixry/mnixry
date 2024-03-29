@@ -1821,6 +1821,8 @@
 
 ## others 
 
+- [jkelleyrtp/stylo-dioxus](https://github.com/jkelleyrtp/stylo-dioxus) - Render HTML and CSS with Servo, Taffy, and Vello
+- [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
 - [marcnewlin/hi_my_name_is_keyboard](https://github.com/marcnewlin/hi_my_name_is_keyboard) - 
 - [revng/revng-c](https://github.com/revng/revng-c) - 
 - [deut-erium/RNGeesus](https://github.com/deut-erium/RNGeesus) - SMT based attacks on non cryptographic PRNGs
