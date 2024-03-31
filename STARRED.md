@@ -2311,7 +2311,7 @@
 - [thunil/TecoGAN](https://github.com/thunil/TecoGAN) - This repo contains source code and materials for the TEmporally COherent GAN SIGGRAPH project.
 - [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [ray-cast/ray-mmd](https://github.com/ray-cast/ray-mmd) - 🎨 The project is designed to create a physically-based rendering at mikumikudance.
-- [wildfirechat/android-chat](https://github.com/wildfirechat/android-chat) - 开源即时通讯(野火IM)系统Android端，支持Android 4.x —— 最新
+- [wildfirechat/android-chat](https://github.com/wildfirechat/android-chat) - 即时通讯，聊天，野火IMAndroid客户端，支持Android 4.x —— 最新
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [LF112/lcookie](https://github.com/LF112/lcookie) - 🍪 Lightweight cookie notice component.
 - [mgharbi/demosaicnet_caffe](https://github.com/mgharbi/demosaicnet_caffe) - An implementation of Deep Joint Demosaicking and Denoising - SiGGRAPH Asia 2016
