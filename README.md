@@ -17,6 +17,9 @@
 
 ## I'm **Mix**
 
+![](https://wakatime.com/badge/user/018e35f0-a91c-4e32-a3fb-a15267c1bb40.svg)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Snippet1691&layout=compact)
+
 - 🔭 I’m currently working on noting
 
 - 🌱 I’m currently learning: Go, Kotlin, Rust and more!
@@ -24,6 +27,7 @@
 - 👯 I’m collaborating on: [mixmoe](https://github.com/mixmoe) and [NoneBot](https://github.com/nonebot)
 
 - 📫 How to reach me: `base64.decode(YWRtaW5Ab2Jmcy5kZXY)`
+
 
 ## 🚉 **Developing Tools&Platforms**
 
