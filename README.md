@@ -8,17 +8,15 @@
 
 <a>
   <img align="right" width="450px" src="./github-metrics.svg" />
-</a>
+</a
 
 <p align="center">
   <img width="300px" src="https://count.getloli.com/get/@mnixry?theme=rule34"></img>
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnixry&layout=compact"></img>
+  <img src="https://wakatime.com/badge/user/018e35f0-a91c-4e32-a3fb-a15267c1bb40.svg"></img>
 </p>
 
 ## I'm **Mix**
-
-![](https://wakatime.com/badge/user/018e35f0-a91c-4e32-a3fb-a15267c1bb40.svg)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Snippet1691&layout=compact)
 
 - 🔭 I’m currently working on noting
 
@@ -42,3 +40,5 @@
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=fff)
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Snippet1691&layout=compact)
