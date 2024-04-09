@@ -807,7 +807,7 @@
 
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
-- [lepture/shibuya](https://github.com/lepture/shibuya) - A responsive, good looking with modern design documentation theme for Sphinx
+- [lepture/shibuya](https://github.com/lepture/shibuya) - A responsive, good looking with modern design documentation theme for Sphinx, with great supports for many sphinx extensions.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -1000,6 +1000,7 @@
 
 ## git 
 
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -1008,6 +1009,7 @@
 
 ## github 
 
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [yanyongyu/githubkit](https://github.com/yanyongyu/githubkit) - The modern, all-batteries-included GitHub SDK for Python, including rest api, graphql, webhooks, like octokit!
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
@@ -1844,6 +1846,9 @@
 
 ## others 
 
+- [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+- [picosh/pico](https://github.com/picosh/pico) - hacker labs
+- [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - Web application for Freedium.cfd
 - [jkelleyrtp/stylo-dioxus](https://github.com/jkelleyrtp/stylo-dioxus) - Render HTML and CSS with Servo, Taffy, and Vello
 - [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
 - [marcnewlin/hi_my_name_is_keyboard](https://github.com/marcnewlin/hi_my_name_is_keyboard) - 
