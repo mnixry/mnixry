@@ -658,6 +658,7 @@
 
 ## dart 
 
+- [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Microsoft's WinUI3 in Flutter.
 - [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
@@ -942,6 +943,7 @@
 
 ## flutter 
 
+- [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) - A cross-platform app made for e-hentai & exhentai by Flutter
@@ -1358,6 +1360,7 @@
 
 ## javascript 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
 - [ben-sb/obfuscator-io-deobfuscator](https://github.com/ben-sb/obfuscator-io-deobfuscator) - A deobfuscator for scripts obfuscated by Obfuscator.io
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
