@@ -925,6 +925,7 @@
 
 ## firefox 
 
+- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - The most of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [0x48piraj/fadblock](https://github.com/0x48piraj/fadblock) - Friendly Adblock for YouTube: A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Opera and Firefox.
 - [ray-lothian/UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - A User-Agent spoofer browser extension that is highly configurable
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
@@ -1246,7 +1247,6 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
@@ -1887,6 +1887,7 @@
 
 ## others 
 
+- [RimoChan/waifu-sensor](https://github.com/RimoChan/waifu-sensor) - 【老婆探测器】1个可解释的动漫角色分类模型！
 - [junron/auto-enum](https://github.com/junron/auto-enum) - IDA Plugin to automatically identify and set enums for standard functions
 - [PwnFunction/v8-randomness-predictor](https://github.com/PwnFunction/v8-randomness-predictor) - Using z3 to predict `Math.random` in v8
 - [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - Power full Task Manager
