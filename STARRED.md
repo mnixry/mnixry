@@ -1911,6 +1911,7 @@
 
 ## others 
 
+- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) - RISC-V Instruction Set Manual
 - [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
 - [xiaoweiChen/Learn-LLVM-17](https://github.com/xiaoweiChen/Learn-LLVM-17) - 《Learn LLVM 17》的非专业个人翻译
 - [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Emby client
