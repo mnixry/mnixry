@@ -41,4 +41,4 @@
 ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=fff)
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: contain; background-size: contain; width: 130vw; opacity: 0.4; background: url('https://github.com/mnixry/mnixry/assets/32300164/17bf7780-aa4d-413b-b13d-7eb91134cdea');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 100; position: fixed; top: 0; left: 0; height: 100vh; object-fit: fill; background-size: fill; width: 130vw; opacity: 1; background: url('https://github.com/mnixry/mnixry/assets/32300164/17bf7780-aa4d-413b-b13d-7eb91134cdea');]{x0000}$}
