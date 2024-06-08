@@ -11,7 +11,6 @@
 </a
 
 <p align="center">
-  <img width="300px" src="https://count.getloli.com/get/@mnixry?theme=rule34"></img>
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnixry&layout=compact"></img>
   <img src="https://wakatime.com/badge/user/018e35f0-a91c-4e32-a3fb-a15267c1bb40.svg"></img>
 </p>
@@ -40,3 +39,6 @@
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=fff)
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.4; background: url('https://github.com/mnixry/mnixry/assets/32300164/17bf7780-aa4d-413b-b13d-7eb91134cdea');]{x0000}$}
