@@ -1935,6 +1935,7 @@
 
 ## others 
 
+- [orz12/pilipala](https://github.com/orz12/pilipala) - PiliPalaX 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
 - [karminski/streaming-json-py](https://github.com/karminski/streaming-json-py) - A streamlined, user-friendly JSON streaming preprocessor, crafted in Python.
 - [QwenLM/Qwen-VL](https://github.com/QwenLM/Qwen-VL) - The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud.
 - [MikeWang000000/n4](https://github.com/MikeWang000000/n4) - 双 NAT4 网络打洞 PoC
