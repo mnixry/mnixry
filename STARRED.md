@@ -690,7 +690,7 @@
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Microsoft's WinUI3 in Flutter.
 - [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## data 
@@ -992,13 +992,13 @@
 - [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
 - [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## flutter-apps 
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## font 
 
@@ -1277,7 +1277,7 @@
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -1588,7 +1588,7 @@
 - [GB28181/GB28181.Solution](https://github.com/GB28181/GB28181.Solution) - Linux/Win/Docker/kubernetes/Chart/Kustomize/GB28181/SIP/RTP/SDP/WebRTC/作为上下级域/平台级联互联
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上的QQ/微信快速安装方式
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
 - [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
@@ -2461,7 +2461,7 @@
 
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Make your app collaborative effortlessly.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [hcwang95/P2PChat](https://github.com/hcwang95/P2PChat) - A simple client program supporting peer to peer connection and communication based on the course-defined protocol, with a naive GUI supported by Python.
 
 ## package-manager 
@@ -2864,7 +2864,7 @@
 - [Borber/Whisperer](https://github.com/Borber/Whisperer) - 将文本编码为简短的中文字符, 防和谐, 并非加密. 如需加密请使用其他实用工具 / Encode the text into short Chinese characters, to prevent harmonization, not to encrypt it. For encryption, please use other utilities
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [sayanarijit/qrcode.show](https://github.com/sayanarijit/qrcode.show) - [WORKING PROTOTYPE] Generate QR code easily for free - QR Code Generation as a Service
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
