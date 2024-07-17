@@ -2071,7 +2071,7 @@
 - [python-cmake-buildsystem/python-cmake-buildsystem](https://github.com/python-cmake-buildsystem/python-cmake-buildsystem) - A cmake buildsystem for compiling Python
 - [notscuffed/repkg](https://github.com/notscuffed/repkg) - Wallpaper engine PKG extractor/TEX to image converter
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-- [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
+- [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 - [chibd2000/myscan](https://github.com/chibd2000/myscan) - 构建信息搜集/漏洞扫描
 - [zkonge/ultralight-rs](https://github.com/zkonge/ultralight-rs) - Ultralight API binding for Rust.  Focusing on using the lightweight headless browser as renderer.
 - [Inochi2D/inochi-creator](https://github.com/Inochi2D/inochi-creator) - Inochi2D Rigging Application
@@ -2322,7 +2322,6 @@
 - [KawaiiZapic/HidePortWorker](https://github.com/KawaiiZapic/HidePortWorker) - A worker script for Cloudflare to hide your source server port,support load balance and more.
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [rmuchan/nonebot-plugin-flexperm](https://github.com/rmuchan/nonebot-plugin-flexperm) - 精细化的 NoneBot 权限管理插件
-- [rmuchan/kasumi-challenge](https://github.com/rmuchan/kasumi-challenge) - 一个基于NoneBot的团队挑战游戏。
 - [Theodo-UK/nestjs-admin](https://github.com/Theodo-UK/nestjs-admin) - A generic administration interface for TypeORM entities
 - [Box-s-ville/luciabot](https://github.com/Box-s-ville/luciabot) - An introduction to NoneBot and development with gocqhttp and docker.
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
@@ -2929,7 +2928,6 @@
 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
