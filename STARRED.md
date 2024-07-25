@@ -652,7 +652,7 @@
 
 ## csharp 
 
-- [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub) - The best, stylish yet powerful GitHub client for Windows.
+- [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub) - A stylish yet powerful GitHub client for Windows
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [LagrangeDev/Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
@@ -1080,7 +1080,7 @@
 
 ## github 
 
-- [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub) - The best, stylish yet powerful GitHub client for Windows.
+- [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub) - A stylish yet powerful GitHub client for Windows
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [yanyongyu/githubkit](https://github.com/yanyongyu/githubkit) - The modern, all-batteries-included GitHub SDK for Python, including rest api, graphql, webhooks, like octokit!
@@ -1091,7 +1091,7 @@
 
 ## github-api 
 
-- [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub) - The best, stylish yet powerful GitHub client for Windows.
+- [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub) - A stylish yet powerful GitHub client for Windows
 - [yanyongyu/githubkit](https://github.com/yanyongyu/githubkit) - The modern, all-batteries-included GitHub SDK for Python, including rest api, graphql, webhooks, like octokit!
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 
@@ -1191,7 +1191,7 @@
 
 ## graphql 
 
-- [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub) - The best, stylish yet powerful GitHub client for Windows.
+- [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub) - A stylish yet powerful GitHub client for Windows
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
@@ -1223,7 +1223,7 @@
 
 ## hacktoberfest 
 
-- [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub) - The best, stylish yet powerful GitHub client for Windows.
+- [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub) - A stylish yet powerful GitHub client for Windows
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime modifies the system time for a single application
@@ -1960,6 +1960,7 @@
 
 ## others 
 
+- [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [shirouzu/FastCopy](https://github.com/shirouzu/FastCopy) - 
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
@@ -1989,7 +1990,7 @@
 - [marcnewlin/hi_my_name_is_keyboard](https://github.com/marcnewlin/hi_my_name_is_keyboard) - 
 - [revng/revng-c](https://github.com/revng/revng-c) - 
 - [umlaeute/v4l2loopback](https://github.com/umlaeute/v4l2loopback) - v4l2-loopback device
-- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个JAR包分析工具，批量分析JAR包搜索，方法调用关系搜索，字符串搜索，Spring组件分析，CFG分析，JVM Stack Frame分析，远程分析Tomcat，进阶表达式搜索，自定义SQL查询，字节码查看，字节码指令级的动态调试分析，反编译JAR包一键导出，一键提取序列化数据恶意代码
+- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个JAR包分析工具，SCA漏洞分析，批量分析JAR包，方法调用关系搜索，字符串搜索，Spring组件分析，CFG程序分析，JVM栈帧分析，进阶表达式搜索，字节码指令级的动态调试分析，反编译JAR包一键导出，一键提取序列化数据恶意代码
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
 - [INotGreen/XiebroC2](https://github.com/INotGreen/XiebroC2) - Supports multi-person collaborative penetration testing graphical framework, Lua plug-in extension, domain front-end/CDN online, custom multiple modules, custom sRDI, file management, process manageme
 - [cordiverse/http](https://github.com/cordiverse/http) - Fetch-based axios-style HTTP client.
@@ -3330,7 +3331,7 @@
 
 ## windows 
 
-- [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub) - The best, stylish yet powerful GitHub client for Windows.
+- [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub) - A stylish yet powerful GitHub client for Windows
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
