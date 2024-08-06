@@ -1960,6 +1960,7 @@
 
 ## others 
 
+- [AliasQli/TwitterRecycle](https://github.com/AliasQli/TwitterRecycle) - 
 - [RSSNext/follow](https://github.com/RSSNext/follow) - 🧡 Next generation information browser
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
