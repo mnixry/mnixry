@@ -2357,7 +2357,7 @@
 - [shudorcl/AlisaBot](https://github.com/shudorcl/AlisaBot) - 用Nonebot2开发的QQ机器人
 - [madwind/flexget_qbittorrent_mod](https://github.com/madwind/flexget_qbittorrent_mod) - flexget qbittorrent删种、辅种 自动签到 插件
 - [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
-- [hexindai/egg-bus](https://github.com/hexindai/egg-bus) - 🐣 用 egg 编写优雅的队列与事件
+- [seekcx/egg-bus](https://github.com/seekcx/egg-bus) - 🐣 用 egg 编写优雅的队列与事件
 - [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
 - [bangumi/api](https://github.com/bangumi/api) - Build your app on Bangumi
 - [langren1353/GM_script](https://github.com/langren1353/GM_script) - 我就是来分享脚本玩玩的
@@ -2431,7 +2431,7 @@
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [ferventdesert/Hawk](https://github.com/ferventdesert/Hawk) - visualized crawler & ETL IDE written with C#/WPF
 - [ffreemt/fetch-es](https://github.com/ffreemt/fetch-es) - 
-- [yui540/Cowardly-Witch](https://github.com/yui540/Cowardly-Witch) - 『臆病な魔女は、Webサイトに魔法をかけた。』
+- [css-animator/Cowardly-Witch](https://github.com/css-animator/Cowardly-Witch) - 『臆病な魔女は、Webサイトに魔法をかけた。』
 - [lllyasviel/DanbooRegion](https://github.com/lllyasviel/DanbooRegion) - DanbooRegion: An Illustration Region Dataset (ECCV 2020)
 - [xieqifei/OneindexN](https://github.com/xieqifei/OneindexN) - 
 - [ledccn/IYUUAutoReseed](https://github.com/ledccn/IYUUAutoReseed) - IYUU自动辅种工具，目前能对国内大部分的PT站点自动辅种，支持下载器集群，支持多盘位，支持多下载目录，支持远程连接等。
