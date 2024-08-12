@@ -2336,7 +2336,7 @@
 - [Box-s-ville/luciabot](https://github.com/Box-s-ville/luciabot) - An introduction to NoneBot and development with gocqhttp and docker.
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [SakuraiCora/SakuraiSenrin](https://github.com/SakuraiCora/SakuraiSenrin) - 使用go-cqhttp作为框架，nonebot2作为SDK打造的一款服务于galgame玩家的轻量级QQ机器人
-- [HibiKier/zhenxun_bot](https://github.com/HibiKier/zhenxun_bot) - 基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot
+- [HibiKier/zhenxun_bot](https://github.com/HibiKier/zhenxun_bot) - 基于 Nonebot2 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot
 - [docker/dockercraft](https://github.com/docker/dockercraft) - Docker + Minecraft = Dockercraft
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
 - [24kcsplus/Grow](https://github.com/24kcsplus/Grow) - 利用Github Action 快速下载 Github 文件 (大概仅限Github文件吧)
