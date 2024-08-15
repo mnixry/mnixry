@@ -2060,7 +2060,6 @@
 - [apple/ml-fastvit](https://github.com/apple/ml-fastvit) - This repository contains the official implementation of the research paper, "FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization" ICCV 2023
 - [corkami/collisions](https://github.com/corkami/collisions) - Hash collisions and exploitations
 - [lijiejie/GitHack](https://github.com/lijiejie/GitHack) - A `.git` folder disclosure exploit
-- [3Kmfi6HP/EDtunnel](https://github.com/3Kmfi6HP/EDtunnel) - Use Cloudflare pages and worker serverless to implement VLESS protocol
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 - [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
 - [ldpreload/BlackLotus](https://github.com/ldpreload/BlackLotus) - BlackLotus UEFI Windows Bootkit
@@ -2423,7 +2422,6 @@
 - [nonebot/plugin-test](https://github.com/nonebot/plugin-test) - Test frontend for nonebot v2+
 - [bryanforbes/gino-stubs](https://github.com/bryanforbes/gino-stubs) - 
 - [morinoyuki/mengna-lua](https://github.com/morinoyuki/mengna-lua) - 
-- [shatyuka/Zhiliao](https://github.com/shatyuka/Zhiliao) - 知乎去广告Xposed模块
 - [yingyulou/STLToyRoom](https://github.com/yingyulou/STLToyRoom) - Yingyulou's STL toy room. Include the "toy-like" implementation of std::tuple, std::function, std::bind, std::any, std::ratio etc.
 - [obentnet/MuseBot](https://github.com/obentnet/MuseBot) - ❤👧A Simple Python Bot.
 - [LuminousXLB/TaraBot](https://github.com/LuminousXLB/TaraBot) - 
