@@ -31,6 +31,7 @@
 - [bot](#bot)
 - [bugbounty](#bugbounty)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -488,6 +489,17 @@
 - [justinmeiners/lc3-vm](https://github.com/justinmeiners/lc3-vm) - Write your own virtual machine for the LC-3 computer!
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
+
+## c-plus-plus 
+
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+- [eteran/edb-debugger](https://github.com/eteran/edb-debugger) - edb is a cross-platform AArch32/x86/x86-64 debugger.
+- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+- [MattPD/cpplinks](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
+- [oatpp/oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 
 ## chatgpt 
 
@@ -2433,7 +2445,6 @@
 - [hanerx/dcomic](https://github.com/hanerx/dcomic) - a simple comic viewer
 - [spencerwooo/onedrive-cf-index](https://github.com/spencerwooo/onedrive-cf-index) - Deprecated, use new project 👇
 - [sihuan/XZZ](https://github.com/sihuan/XZZ) - 小智障,一个利用 go-cqhttp ,快速搭建命令式 QQ 机器人的框架.
-- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [WuSiYu/PlasmaVideoWallpaper](https://github.com/WuSiYu/PlasmaVideoWallpaper) - A KDE Plasma 5 wallpaper plugin which can let you using a video as the wallpaper
 - [yudanhezhongweijie/DawnIslandK](https://github.com/yudanhezhongweijie/DawnIslandK) - 
 - [Mrs4s/MiraiGo](https://github.com/Mrs4s/MiraiGo) - qq协议的golang实现, 移植于mirai
