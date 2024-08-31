@@ -2067,7 +2067,7 @@
 - [shigma/typed-eval](https://github.com/shigma/typed-eval) - Type-based calculation does right with TypeScript
 - [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 - [crosstool-ng/crosstool-ng](https://github.com/crosstool-ng/crosstool-ng) - A versatile (cross-)toolchain generator.
-- [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime) - Userspace eBPF runtime for fast Uprobe & Syscall hook & Extensions with LLVM JIT
+- [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime) - Userspace eBPF runtime for fast Uprobe & Syscall hook & Extensions
 - [CjangCjengh/YakuYaku](https://github.com/CjangCjengh/YakuYaku) - 翻译姬：致力于小众领域的机器翻译
 - [RickdeJager/CVE-2023-4911](https://github.com/RickdeJager/CVE-2023-4911) - CVE-2023-4911 proof of concept
 - [lem0nSec/ShellGhost](https://github.com/lem0nSec/ShellGhost) - A memory-based evasion technique which makes shellcode invisible from process start to end.
