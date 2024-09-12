@@ -1489,7 +1489,7 @@
 - [Tencent/puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
@@ -2012,7 +2012,7 @@
 - [queer/boxxy](https://github.com/queer/boxxy) - boxxy puts bad Linux applications in a box with only their files.
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [AliasQli/TwitterRecycle](https://github.com/AliasQli/TwitterRecycle) - 
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [shirouzu/FastCopy](https://github.com/shirouzu/FastCopy) - 
@@ -2077,7 +2077,7 @@
 - [shigma/typed-eval](https://github.com/shigma/typed-eval) - Type-based calculation does right with TypeScript
 - [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 - [crosstool-ng/crosstool-ng](https://github.com/crosstool-ng/crosstool-ng) - A versatile (cross-)toolchain generator.
-- [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime) - Userspace eBPF runtime for fast Uprobe & Syscall hook & Extensions
+- [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime) - Userspace eBPF runtime for Observability, Network & General Extensions Framework
 - [CjangCjengh/YakuYaku](https://github.com/CjangCjengh/YakuYaku) - 翻译姬：致力于小众领域的机器翻译
 - [RickdeJager/CVE-2023-4911](https://github.com/RickdeJager/CVE-2023-4911) - CVE-2023-4911 proof of concept
 - [lem0nSec/ShellGhost](https://github.com/lem0nSec/ShellGhost) - A memory-based evasion technique which makes shellcode invisible from process start to end.
