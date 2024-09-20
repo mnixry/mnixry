@@ -2024,6 +2024,7 @@
 
 ## others 
 
+- [cloudflare/trie-hard](https://github.com/cloudflare/trie-hard) - Novel implementation of a Trie data structure optimized for small, sparse maps
 - [canyie/MagiskEoP](https://github.com/canyie/MagiskEoP) - Exploit and writeup for installed app to root privilege escalation through Magisk Bug #8279, Privileges Escalation / Arbitrary Code Execution Vulnerability
 - [yasukata/zpoline](https://github.com/yasukata/zpoline) - system call hook for Linux
 - [queer/boxxy](https://github.com/queer/boxxy) - boxxy puts bad Linux applications in a box with only their files.
