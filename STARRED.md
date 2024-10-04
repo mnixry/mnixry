@@ -574,6 +574,7 @@
 
 ## cli 
 
+- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools for building production-grade applications in TypeScript.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -1615,6 +1616,7 @@
 
 ## linux 
 
+- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
 - [cdk-team/CDK](https://github.com/cdk-team/CDK) - 📦  Make security testing of K8s, Docker, and Containerd easier.
@@ -2926,6 +2928,7 @@
 
 ## rust 
 
+- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [james58899/hath-rust](https://github.com/james58899/hath-rust) - The unofficial Hentai@Home client written in Rust
@@ -3053,6 +3056,7 @@
 
 ## shell 
 
+- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor](https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor) - A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely.
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
