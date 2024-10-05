@@ -270,7 +270,7 @@
 
 ## android 
 
-- [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats
+- [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
@@ -1167,6 +1167,7 @@
 
 ## golang 
 
+- [NHAS/reverse_ssh](https://github.com/NHAS/reverse_ssh) - SSH based reverse shell
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
@@ -1235,6 +1236,7 @@
 
 ## hacking 
 
+- [NHAS/reverse_ssh](https://github.com/NHAS/reverse_ssh) - SSH based reverse shell
 - [22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor](https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor) - A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely.
 - [mitre/caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -1319,6 +1321,8 @@
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
+- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
@@ -2032,6 +2036,7 @@
 
 ## others 
 
+- [janmojzis/tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
 - [containers/gvisor-tap-vsock](https://github.com/containers/gvisor-tap-vsock) - A new network stack based on gVisor
 - [cloudflare/trie-hard](https://github.com/cloudflare/trie-hard) - Novel implementation of a Trie data structure optimized for small, sparse maps
 - [canyie/MagiskEoP](https://github.com/canyie/MagiskEoP) - Exploit and writeup for installed app to root privilege escalation through Magisk Bug #8279, Privileges Escalation / Arbitrary Code Execution Vulnerability
@@ -2565,7 +2570,7 @@
 
 ## parsing 
 
-- [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats
+- [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
@@ -2578,6 +2583,7 @@
 
 ## pentesting 
 
+- [NHAS/reverse_ssh](https://github.com/NHAS/reverse_ssh) - SSH based reverse shell
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [t3l3machus/Villain](https://github.com/t3l3machus/Villain) - Villain is a high level stage 0/1 C2 framework that can handle multiple reverse TCP & HoaxShell-based shells, enhance their functionality with additional features (commands, utilities) and share them 
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
@@ -2654,7 +2660,7 @@
 
 ## python 
 
-- [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats
+- [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
 - [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your python tests
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
@@ -2730,7 +2736,6 @@
 - [DawnNights/py-pcqq](https://github.com/DawnNights/py-pcqq) - Python3模拟PCQQ客户端协议
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [hluwa/Wallbreaker](https://github.com/hluwa/Wallbreaker) - 🔨 Break Java Reverse Engineering form Memory World!
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -2887,7 +2892,6 @@
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 
 ## redux 
@@ -2906,7 +2910,7 @@
 
 ## reverse-engineering 
 
-- [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats
+- [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
 - [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tools
 - [ben-sb/obfuscator-io-deobfuscator](https://github.com/ben-sb/obfuscator-io-deobfuscator) - A deobfuscator for scripts obfuscated by Obfuscator.io
 - [wux1an/wxapkg](https://github.com/wux1an/wxapkg) - 微信小程序反编译工具，.wxapkg 文件扫描 + 解密 + 解包工具
@@ -2929,7 +2933,7 @@
 ## rust 
 
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats
+- [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [james58899/hath-rust](https://github.com/james58899/hath-rust) - The unofficial Hentai@Home client written in Rust
 - [xarantolus/ax](https://github.com/xarantolus/ax) - Minimal x86-64 emulator for WebAssembly - run ELF binaries in your browser
@@ -3056,6 +3060,7 @@
 
 ## shell 
 
+- [NHAS/reverse_ssh](https://github.com/NHAS/reverse_ssh) - SSH based reverse shell
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor](https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor) - A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely.
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
@@ -3197,6 +3202,7 @@
 
 ## terminal 
 
+- [NHAS/reverse_ssh](https://github.com/NHAS/reverse_ssh) - SSH based reverse shell
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
