@@ -232,6 +232,7 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xamarin](#xamarin)
+- [xml](#xml)
 - [zig](#zig)
 
 ## ai 
@@ -386,6 +387,7 @@
 
 ## atom 
 
+- [dhvcc/rss-parser](https://github.com/dhvcc/rss-parser) - typed python RSS parsing module built using xmltodict and pydantic
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
 
 ## automation 
@@ -1559,6 +1561,7 @@
 
 ## js 
 
+- [arthurfiorette/tuple-it](https://github.com/arthurfiorette/tuple-it) - 🦋 A simple Promise to [error, data] catcher.
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 
@@ -2048,6 +2051,7 @@
 
 ## others 
 
+- [KDE/heaptrack](https://github.com/KDE/heaptrack) - A heap memory profiler for Linux
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [janmojzis/tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
 - [containers/gvisor-tap-vsock](https://github.com/containers/gvisor-tap-vsock) - A new network stack based on gVisor
@@ -2674,6 +2678,7 @@
 
 ## python 
 
+- [dhvcc/rss-parser](https://github.com/dhvcc/rss-parser) - typed python RSS parsing module built using xmltodict and pydantic
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
 - [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your python tests
@@ -2786,6 +2791,7 @@
 
 ## python3 
 
+- [dhvcc/rss-parser](https://github.com/dhvcc/rss-parser) - typed python RSS parsing module built using xmltodict and pydantic
 - [mixmoe/HibiAPI](https://github.com/mixmoe/HibiAPI) - 一个实现了多种常用站点的易用化API的程序 / A program that implements easy-to-use APIs for a variety of commonly used sites.
 - [HumanSignal/labelImg](https://github.com/HumanSignal/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source dat
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -2947,6 +2953,7 @@
 
 ## rust 
 
+- [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
@@ -3273,6 +3280,7 @@
 
 ## typescript 
 
+- [arthurfiorette/tuple-it](https://github.com/arthurfiorette/tuple-it) - 🦋 A simple Promise to [error, data] catcher.
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
@@ -3514,6 +3522,10 @@
 ## xamarin 
 
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
+
+## xml 
+
+- [dhvcc/rss-parser](https://github.com/dhvcc/rss-parser) - typed python RSS parsing module built using xmltodict and pydantic
 
 ## zig 
 
