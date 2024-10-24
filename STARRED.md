@@ -982,6 +982,7 @@
 
 ## emulator 
 
+- [cyyself/cemu](https://github.com/cyyself/cemu) - A simple full system emulator. Currently support RV64IMACSU and MIPS32 and LoongArch32. Capable of booting Linux. Suitable for education and research.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [Py-KMS-Organization/py-kms](https://github.com/Py-KMS-Organization/py-kms) - KMS Server Emulator written in Python
