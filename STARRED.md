@@ -2608,7 +2608,7 @@
 
 ## p2p 
 
-- [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Make your app collaborative effortlessly.
+- [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [hcwang95/P2PChat](https://github.com/hcwang95/P2PChat) - A simple client program supporting peer to peer connection and communication based on the course-defined protocol, with a naive GUI supported by Python.
