@@ -1793,7 +1793,7 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [executablebooks/markdown-it-py](https://github.com/executablebooks/markdown-it-py) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. Now in Python!
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
-- [hvalev/py-markdown-table](https://github.com/hvalev/py-markdown-table) - Tiny python library with zero dependencies which helps you to generate formatted markdown tables
+- [hvalev/py-markdown-table](https://github.com/hvalev/py-markdown-table) - Tiny python library with zero dependencies which generates formatted multiline tables in markdown
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [nonebot/nb-autodoc](https://github.com/nonebot/nb-autodoc) - Python API documentation tool supporting the modern PEPs and typing features.
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
@@ -2079,6 +2079,7 @@
 
 ## others 
 
+- [fast/template](https://github.com/fast/template) - Fast template for developing a new Rust project
 - [smorimoto/tune-github-hosted-runner-network](https://github.com/smorimoto/tune-github-hosted-runner-network) - OS-neutral interface to disable TCP/UDP offload to fix flaky networking on GitHub-hosted runners
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
 - [ucb-bar/riscv-sodor](https://github.com/ucb-bar/riscv-sodor) - educational microarchitectures for risc-v isa
@@ -2837,7 +2838,7 @@
 - [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
-- [hvalev/py-markdown-table](https://github.com/hvalev/py-markdown-table) - Tiny python library with zero dependencies which helps you to generate formatted markdown tables
+- [hvalev/py-markdown-table](https://github.com/hvalev/py-markdown-table) - Tiny python library with zero dependencies which generates formatted multiline tables in markdown
 - [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
