@@ -2079,6 +2079,7 @@
 
 ## others 
 
+- [amaranth-lang/amaranth](https://github.com/amaranth-lang/amaranth) - A modern hardware definition language and toolchain based on Python
 - [seven1m/justforfunnoreally.dev](https://github.com/seven1m/justforfunnoreally.dev) - A little website to explain that sometimes we just like to have fun!
 - [fast/template](https://github.com/fast/template) - Fast template for developing a new Rust project
 - [smorimoto/tune-github-hosted-runner-network](https://github.com/smorimoto/tune-github-hosted-runner-network) - OS-neutral interface to disable TCP/UDP offload to fix flaky networking on GitHub-hosted runners
