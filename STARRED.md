@@ -2080,6 +2080,8 @@
 
 ## others 
 
+- [Acmesec/PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual) - Prompt越狱手册
+- [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) - Community managed domain list. Generate geosite.dat for V2Ray.
 - [amaranth-lang/amaranth](https://github.com/amaranth-lang/amaranth) - A modern hardware definition language and toolchain based on Python
 - [seven1m/justforfunnoreally.dev](https://github.com/seven1m/justforfunnoreally.dev) - A little website to explain that sometimes we just like to have fun!
 - [fast/template](https://github.com/fast/template) - Fast template for developing a new Rust project
