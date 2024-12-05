@@ -1494,6 +1494,7 @@
 - [670848654/SakuraAnime](https://github.com/670848654/SakuraAnime) - 使用jsoup爬取樱花动漫(Yhdm)、嘶哩嘶哩(SiliSili)部分内容编写的第三方Android客户端。
 - [hluwa/Wallbreaker](https://github.com/hluwa/Wallbreaker) - 🔨 Break Java Reverse Engineering form Memory World!
 - [Haleydu/Cimoc](https://github.com/Haleydu/Cimoc) - 漫画阅读器
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
@@ -2931,6 +2932,7 @@
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
+- [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
