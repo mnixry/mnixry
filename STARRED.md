@@ -2093,6 +2093,7 @@
 
 ## others 
 
+- [jimmysong/programmingbitcoin](https://github.com/jimmysong/programmingbitcoin) - Repository for the book
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [mandiant/GoReSym](https://github.com/mandiant/GoReSym) - Go symbol recovery tool
