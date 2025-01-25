@@ -2115,6 +2115,7 @@
 
 ## others 
 
+- [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
 - [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, m
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 - [kmod-midori/CatShare](https://github.com/kmod-midori/CatShare) - 类原生 & 海外设备，现已加入互传联盟。
