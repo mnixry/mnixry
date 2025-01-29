@@ -311,7 +311,7 @@
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [cinit/TMoe](https://github.com/cinit/TMoe) - An Xposed module for Telegram clients
-- [mobile-dev-inc/maestro](https://github.com/mobile-dev-inc/maestro) - Painless Mobile UI Automation
+- [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless Mobile UI Automation
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 - [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) - Fcitx5 input method framework and engines ported to Android
@@ -1487,7 +1487,7 @@
 - [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
-- [mobile-dev-inc/maestro](https://github.com/mobile-dev-inc/maestro) - Painless Mobile UI Automation
+- [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless Mobile UI Automation
 - [TrungNguyen1909/qemu-t8030](https://github.com/TrungNguyen1909/qemu-t8030) - iPhone 11 emulated on QEMU
 - [thebaselab/codeapp](https://github.com/thebaselab/codeapp) - Building a full-fledged code editor for iPad
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
