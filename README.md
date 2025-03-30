@@ -20,11 +20,11 @@
 
 - 🔭 I’m currently working on noting
 
-- 🌱 I’m currently learning: Go, Kotlin, Rust and more!
+- 🌱 I’m currently learning: C, C++, Go, Kotlin, Rust and more!
 
-- 👯 I’m collaborating on: [mixmoe](https://github.com/mixmoe) and [NoneBot](https://github.com/nonebot)
+<!-- - 👯 I’m collaborating on: [mixmoe](https://github.com/mixmoe) and [NoneBot](https://github.com/nonebot) -->
 
-- 📫 How to reach me: `base64.decode(YWRtaW5Ab2Jmcy5kZXY)`
+- 📫 How to reach me: `base64.decode('YWRtaW5Ab2Jmcy5kZXY')`
 
 
 ## 🚉 **Developing Tools&Platforms**
