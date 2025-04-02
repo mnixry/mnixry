@@ -295,6 +295,7 @@
 
 ## android 
 
+- [ShinoLeah/eDBG](https://github.com/ShinoLeah/eDBG) - eBPF-based lightweight debugger for Android
 - [open-obfuscator/o-mvll](https://github.com/open-obfuscator/o-mvll) - :electron: O-MVLL is a code obfuscator based on LLVM for native code (Android & iOS)
 - [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator) - Deobfuscate "paranoid" protected apps
 - [liriliri/aya](https://github.com/liriliri/aya) - Android adb desktop app
@@ -2174,7 +2175,6 @@
 - [Aleksoid1978/MPC-BE](https://github.com/Aleksoid1978/MPC-BE) - MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.
 - [suqi8/OShin](https://github.com/suqi8/OShin) - 一个专为ColorOS系统设计的辅助模块
 - [kooritea/fcmfix](https://github.com/kooritea/fcmfix) - [xposed]让fcm唤醒已完全停止的应用
-- [ShinoLeah/eDBG](https://github.com/ShinoLeah/eDBG) - eBPF-based lightweight debugger for Android
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
 - [dyhkwong/Exclave](https://github.com/dyhkwong/Exclave) - A proxy client derived from SagerNet and powered by a hard fork of v2ray-core.
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
@@ -3099,6 +3099,7 @@
 
 ## reverse-engineering 
 
+- [ShinoLeah/eDBG](https://github.com/ShinoLeah/eDBG) - eBPF-based lightweight debugger for Android
 - [robalb/x86-64-playground](https://github.com/robalb/x86-64-playground) - An online assembly editor and debugger for the x86-64 architecture
 - [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator) - Deobfuscate "paranoid" protected apps
 - [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) - Cybersecurity oriented awesome list
