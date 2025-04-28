@@ -2853,7 +2853,7 @@
 
 ## pwa 
 
-- [asadahimeka/pixiv-viewer](https://github.com/asadahimeka/pixiv-viewer) - 又一个 Pixiv 插画/小说阅览工具（适配多端展示、支持 PWA）/ Yet Another Pixiv Illust&Novel Viewer.
+- [asadahimeka/pixiv-viewer](https://github.com/asadahimeka/pixiv-viewer) - Yet Another Pixiv Illust&Novel Viewer. 又一个 Pixiv 免登录阅览工具，提供 pixiv 的插画、动图、漫画和小说等作品的在线浏览，适配多端样式，提供多种浏览布局选择，支持 PWA 安装，支持自定义 API 与图床，支持 RefreshToken/OAuth/Cookie 方式登录。
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
@@ -3643,7 +3643,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [MaaAssistantArknights/MaaX](https://github.com/MaaAssistantArknights/MaaX) - MAA GUI with Electron & Vue3
 - [remult/remult](https://github.com/remult/remult) - Full-stack CRUD, simplified, with SSOT TypeScript entities
-- [asadahimeka/pixiv-viewer](https://github.com/asadahimeka/pixiv-viewer) - 又一个 Pixiv 插画/小说阅览工具（适配多端展示、支持 PWA）/ Yet Another Pixiv Illust&Novel Viewer.
+- [asadahimeka/pixiv-viewer](https://github.com/asadahimeka/pixiv-viewer) - Yet Another Pixiv Illust&Novel Viewer. 又一个 Pixiv 免登录阅览工具，提供 pixiv 的插画、动图、漫画和小说等作品的在线浏览，适配多端样式，提供多种浏览布局选择，支持 PWA 安装，支持自定义 API 与图床，支持 RefreshToken/OAuth/Cookie 方式登录。
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 3
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
