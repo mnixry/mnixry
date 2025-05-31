@@ -2211,6 +2211,7 @@
 
 ## others 
 
+- [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) - 
 - [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle) - Extended pickling support for Python objects
 - [es3n1n/defendnot](https://github.com/es3n1n/defendnot) - An even funnier way to disable windows defender. (through WSC api)
