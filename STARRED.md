@@ -327,7 +327,7 @@
 - [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
-- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
+- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - 哔咔漫画三方。A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [fankes/TSBattery](https://github.com/fankes/TSBattery) - A new way to save your battery avoid cancer apps hacker it.
 - [eritpchy/FingerprintPay](https://github.com/eritpchy/FingerprintPay) - 让微信、QQ、支付宝、淘宝、云闪付支持使用指纹支付
 - [firerpa/lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation of mobile automation robots.
@@ -989,7 +989,7 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [EugenCepoi/nsfw_api](https://github.com/EugenCepoi/nsfw_api) - Python REST API to detect images with adult content
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
-- [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Free, Secure, Distributed, Modern Control Panel for Minecraft and most Steam Game Servers.
+- [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Free, Secure, Distributed, Modern Control Panel for Minecraft and Steam Game Servers.
 
 ## documentation 
 
@@ -1132,7 +1132,7 @@
 - [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) - A cross-platform manga app made for e-hentai & exhentai by Flutter
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
-- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
+- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - 哔咔漫画三方。A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Microsoft's WinUI3 in Flutter.
 - [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
 - [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
@@ -1184,7 +1184,7 @@
 ## game 
 
 - [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os) - A game where you are a computer's OS and you have to manage processes, memory and I/O events.
-- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
+- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - 哔咔漫画三方。A comic browser，support Android / iOS / MacOS / Windows / Linux.
 
 ## game-development 
 
@@ -1250,7 +1250,7 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging LLM for System Virtualization.
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
-- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
+- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - 哔咔漫画三方。A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
@@ -1291,7 +1291,7 @@
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
 - [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging LLM for System Virtualization.
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
-- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
+- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - 哔咔漫画三方。A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [yaklang/yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
@@ -1561,7 +1561,7 @@
 - [BandarHL/BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
 - [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis) - Capture HTTP/HTTPS, and Websocket from iOS app without proxy.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
-- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
+- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - 哔咔漫画三方。A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
@@ -1853,7 +1853,6 @@
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [koishijs/koishi-plugin-blockly](https://github.com/koishijs/koishi-plugin-blockly) - Use blockly to write a plugin for koishi bot
-- [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging LLM for System Virtualization.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -1978,7 +1977,7 @@
 - [YatopiaMC/Yatopia](https://github.com/YatopiaMC/Yatopia) - The Most Powerful and Feature Rich Minecraft Server Software!
 - [Tnze/go-mc](https://github.com/Tnze/go-mc) - Collection of Go libraries for Minecraft
 - [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
-- [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Free, Secure, Distributed, Modern Control Panel for Minecraft and most Steam Game Servers.
+- [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Free, Secure, Distributed, Modern Control Panel for Minecraft and Steam Game Servers.
 
 ## mobile 
 
@@ -2167,7 +2166,7 @@
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [JustArchiNET/ASF-ui](https://github.com/JustArchiNET/ASF-ui) - The official web interface for ASF
-- [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Free, Secure, Distributed, Modern Control Panel for Minecraft and most Steam Game Servers.
+- [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Free, Secure, Distributed, Modern Control Panel for Minecraft and Steam Game Servers.
 
 ## nosql 
 
@@ -2210,7 +2209,6 @@
 - [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
-- [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging LLM for System Virtualization.
 - [Well2333/nonebot-plugin-bilichat](https://github.com/Well2333/nonebot-plugin-bilichat) - 一个废物写的屁用没有还一堆bug甚至不如停更三年的bot的垃圾项目罢了
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [johanmodin/clifs](https://github.com/johanmodin/clifs) - Contrastive Language-Image Forensic Search allows free text searching through videos using OpenAI's machine learning model CLIP
@@ -2234,7 +2232,7 @@
 
 ## others 
 
-- [QiuChenly/InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么
+- [VeroFess/SbieHide](https://github.com/VeroFess/SbieHide) - Try to hide Sndboxie
 - [Orbmu2k/nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - 
 - [cado-nfs/cado-nfs](https://github.com/cado-nfs/cado-nfs) - 
 - [Houvven/OplusUpdater-android](https://github.com/Houvven/OplusUpdater-android) - 
