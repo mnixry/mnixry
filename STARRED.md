@@ -174,6 +174,7 @@
 - [nosql](#nosql)
 - [npm](#npm)
 - [numpy](#numpy)
+- [obsidian](#obsidian)
 - [open-source](#open-source)
 - [openai](#openai)
 - [opencv](#opencv)
@@ -2254,6 +2255,10 @@
 
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 
+## obsidian 
+
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+
 ## open-source 
 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer 
@@ -2298,6 +2303,7 @@
 
 ## others 
 
+- [oldherl/syllazh](https://github.com/oldherl/syllazh) - Linux TTY font for Chinese, but treat it as a syllabic writing / 中文 Linux TTY 字体，但是表音文字
 - [COVESA/dlt-viewer](https://github.com/COVESA/dlt-viewer) - Diagnostic Log and Trace viewing program
 - [hiyohiyo/CrystalDiskMark](https://github.com/hiyohiyo/CrystalDiskMark) - CrystalDiskMark
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI.
