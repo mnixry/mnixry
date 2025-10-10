@@ -20,19 +20,25 @@
 
 - 🔭 I’m currently working on noting
 
-- 🌱 I’m currently learning: C, C++, Rust, Kotlin and more!
+- 🌱 I’m currently learning:
+  - ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
+  - ![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
+  - ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=fff)
+  - ![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=Kotlin&logoColor=fff)
+  - and more!
 
 <!-- - 👯 I’m collaborating on: [mixmoe](https://github.com/mixmoe) and [NoneBot](https://github.com/nonebot) -->
 
 - 📫 How to reach me: `base64.decode('YWRtaW5Ab2Jmcy5kZXY')`
 
 
-## 🚉 **Developing Tools&Platforms**
+## 🚉 **Developing Tools & Platforms**
 
 ![](https://img.shields.io/badge/Linux-Manjaro-35bf5c?style=flat-square&logo=manjaro&logoColor=fff)
 ![](https://img.shields.io/badge/Linux-NixOS-5277c3?style=flat-square&logo=nixos&logoColor=fff)
-![](https://img.shields.io/badge/Windows-11-0078d6?style=flat-square&logo=windows&logoColor=fff)
-![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)
+![](https://img.shields.io/badge/Windows-11-0078d6?style=flat-square)
+![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-007acc?style=flat-square)
+![](https://img.shields.io/badge/Editor-Cursor-000000?style=flat-square)
 
 ## 🌟 **My Skills**  
 
