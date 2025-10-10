@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on noting
 
-- 🌱 I’m currently learning: C, C++, Go, Kotlin, Rust and more!
+- 🌱 I’m currently learning: C, C++, Rust, Kotlin and more!
 
 <!-- - 👯 I’m collaborating on: [mixmoe](https://github.com/mixmoe) and [NoneBot](https://github.com/nonebot) -->
 
@@ -30,6 +30,7 @@
 ## 🚉 **Developing Tools&Platforms**
 
 ![](https://img.shields.io/badge/Linux-Manjaro-35bf5c?style=flat-square&logo=manjaro&logoColor=fff)
+![](https://img.shields.io/badge/Linux-NixOS-5277c3?style=flat-square&logo=nixos&logoColor=fff)
 ![](https://img.shields.io/badge/Windows-11-0078d6?style=flat-square&logo=windows&logoColor=fff)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)
 
@@ -37,7 +38,9 @@
 
 ![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=000)
+![](https://img.shields.io/badge/-Nix-5277c3?style=flat-square&logo=NixOS&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
-![](https://img.shields.io/badge/-React-61dbfb?style=flat-square&logo=React&logoColor=000)
+![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=000)
+![](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=fff)
