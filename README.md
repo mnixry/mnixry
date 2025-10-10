@@ -44,12 +44,12 @@
   ![Nix](https://img.shields.io/badge/-Nix-5277c3?style=flat-square&logo=NixOS&logoColor=fff)
   ![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
   ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=000)
-  ![Go](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)
   ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=fff)
 
 - 🔰 **Learning**
-  
+
+  ![Go](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)
   ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
   ![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
   ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=fff)
