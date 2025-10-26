@@ -2323,6 +2323,7 @@
 
 ## others 
 
+- [irony/aspipes](https://github.com/irony/aspipes) - 
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent.
 - [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
 - [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
