@@ -2393,7 +2393,7 @@
 - [DelSkayn/rquickjs](https://github.com/DelSkayn/rquickjs) - High level bindings to the quickjs javascript engine
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
-- [Anvil-Dev/AnvilCraft](https://github.com/Anvil-Dev/AnvilCraft) - 
+- [Anvil-Dev/AnvilCraft](https://github.com/Anvil-Dev/AnvilCraft) - The minecraft mod is an anvil-centric vanilla survival expansion. 这个Minecraft模组是一个以铁砧为中心的原版生存扩展。
 - [KDE/kate](https://github.com/KDE/kate) - Advanced text editor
 - [bytedance/SandboxFusion](https://github.com/bytedance/SandboxFusion) - 
 - [VeroFess/SbieHide](https://github.com/VeroFess/SbieHide) - Try to hide Sndboxie
