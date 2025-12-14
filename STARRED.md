@@ -2381,6 +2381,7 @@
 
 ## others 
 
+- [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with GC
 - [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) - An ahead-of-time JavaScript compiler
 - [Azure/kimojio-rs](https://github.com/Azure/kimojio-rs) - A thread-per-core Linux io_uring async runtime for Rust optimized for latency.
 - [unjs/ungh](https://github.com/unjs/ungh) - 🐙 Unlimited access to github API
