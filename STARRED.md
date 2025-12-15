@@ -1058,6 +1058,7 @@
 
 ## docker 
 
+- [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
@@ -2381,7 +2382,7 @@
 
 ## others 
 
-- [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with GC
+- [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with garbage collection
 - [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) - An ahead-of-time JavaScript compiler
 - [Azure/kimojio-rs](https://github.com/Azure/kimojio-rs) - A thread-per-core Linux io_uring async runtime for Rust optimized for latency.
 - [unjs/ungh](https://github.com/unjs/ungh) - 🐙 Unlimited access to github API
