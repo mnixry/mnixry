@@ -2678,7 +2678,7 @@
 - [cjh0613/tencent-sensitive-words](https://github.com/cjh0613/tencent-sensitive-words) - 腾讯的离线敏感词库
 - [bit4woo/Summit_PPT](https://github.com/bit4woo/Summit_PPT) - 各种安全大会PPT PDF
 - [innnky/so-vits-svc](https://github.com/innnky/so-vits-svc) - 基于vits与softvc的歌声音色转换模型
-- [AdminTest0/SharpWxDump](https://github.com/AdminTest0/SharpWxDump) - 微信客户端取证，可获取用户个人信息(昵称/账号/手机/邮箱/数据库密钥(用来解密聊天记录))；支持获取多用户信息，不定期更新新版本偏移，目前支持所有新版本、正式版本
+- [AdminTest0/SharpWxDump](https://github.com/AdminTest0/SharpWxDump) - null
 - [9bie/Slacker](https://github.com/9bie/Slacker) - 懒鬼插件/审计过的后的渗透插件/我凭本事打的SESSION凭什么还要我自己动手后渗透？
 - [Y4er/dotnet-deserialization](https://github.com/Y4er/dotnet-deserialization) - dotnet 反序列化学习笔记
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
