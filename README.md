@@ -48,7 +48,8 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=fff)
 
 - 🔰 **Learning**
-
+  
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=Kubernetes&logoColor=fff)
   ![Go](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)
   ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
   ![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
