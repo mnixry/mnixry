@@ -294,7 +294,7 @@
 - [samchon/nestia](https://github.com/samchon/nestia) - NestJS Helper + AI Chatbot Development
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an open-source engine for autonomous agents — event-driven, proactive, and self-scheduling.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 
 ## ai 
 
@@ -317,7 +317,7 @@
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an open-source engine for autonomous agents — event-driven, proactive, and self-scheduling.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [pkhungurn/talking-head-anime-2-demo](https://github.com/pkhungurn/talking-head-anime-2-demo) - Demo programs for the Talking Head Anime from a Single Image 2: More Expressive project.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Suppor
 - [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -1346,7 +1346,7 @@
 ## generative-ai 
 
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 
 ## git 
 
@@ -1996,7 +1996,7 @@
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - Easy-to-use and powerful LLM and SLM library with awesome model zoo.
 - [samchon/nestia](https://github.com/samchon/nestia) - NestJS Helper + AI Chatbot Development
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 
 ## login 
@@ -2042,7 +2042,7 @@
 - [pkhungurn/talking-head-anime-2-demo](https://github.com/pkhungurn/talking-head-anime-2-demo) - Demo programs for the Talking Head Anime from a Single Image 2: More Expressive project.
 - [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
 - [BlazingDB/blazingsql](https://github.com/BlazingDB/blazingsql) - BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [pkhungurn/talking-head-anime-demo](https://github.com/pkhungurn/talking-head-anime-demo) - Demo for the "Talking Head Anime from a Single Image."
@@ -2268,7 +2268,7 @@
 - [alibaba/AliceMind](https://github.com/alibaba/AliceMind) - ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab
 - [mozilla/firefox-translations](https://github.com/mozilla/firefox-translations) - Firefox Translations is a webextension that enables client side translations for web browsers.
 - [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - Easy-to-use and powerful LLM and SLM library with awesome model zoo.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP) - 中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package www.jionlp.com
 - [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
@@ -3180,7 +3180,7 @@
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [pkhungurn/talking-head-anime-2-demo](https://github.com/pkhungurn/talking-head-anime-2-demo) - Demo programs for the Talking Head Anime from a Single Image 2: More Expressive project.
 - [BlazingDB/blazingsql](https://github.com/BlazingDB/blazingsql) - BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP) - 中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package www.jionlp.com
 - [ArcletProject/Alconna](https://github.com/ArcletProject/Alconna) - A High-performance, Generality, Humane Python CLI Arguments Parser Library. 一个直观的、高性能、泛用的Python命令行参数解析器集成库
@@ -3270,7 +3270,7 @@
 - [aqlaboratory/openfold](https://github.com/aqlaboratory/openfold) - Trainable, memory-efficient, and GPU-friendly PyTorch reproduction of AlphaFold 2
 - [pkhungurn/talking-head-anime-2-demo](https://github.com/pkhungurn/talking-head-anime-2-demo) - Demo programs for the Talking Head Anime from a Single Image 2: More Expressive project.
 - [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole) - A unified, comprehensive and efficient recommendation library
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
@@ -3300,7 +3300,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [samchon/nestia](https://github.com/samchon/nestia) - NestJS Helper + AI Chatbot Development
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 
 ## raspberry-pi 
 
