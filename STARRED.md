@@ -2452,7 +2452,7 @@
 - [bytedance/CompoundVM](https://github.com/bytedance/CompoundVM) - Optimized JDK with high compatibility and performance
 - [CVEProject/cvelistV5](https://github.com/CVEProject/cvelistV5) - CVE cache of the official CVE List in CVE JSON 5 format
 - [5ec1cff/payload-dumper](https://github.com/5ec1cff/payload-dumper) - Dump Android's payload.bin
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [lynzrand/llm-generate-grayscale-text](https://github.com/lynzrand/llm-generate-grayscale-text) - 
 - [webtui/webtui](https://github.com/webtui/webtui) - 
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
