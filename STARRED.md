@@ -327,7 +327,7 @@
 
 ## ai-agents 
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
 
 ## ajax 
 
@@ -2006,7 +2006,7 @@
 ## llm 
 
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
 - [vladmandic/sdnext](https://github.com/vladmandic/sdnext) - SD.Next: All-in-one WebUI for AI generative image and video creation, captioning and processing
@@ -2132,7 +2132,7 @@
 
 ## mcp 
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
@@ -2295,7 +2295,7 @@
 
 ## no-code 
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
@@ -3316,7 +3316,7 @@
 
 ## rag 
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [samchon/nestia](https://github.com/samchon/nestia) - NestJS Helper + AI Chatbot Development
