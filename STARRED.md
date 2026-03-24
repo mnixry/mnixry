@@ -1529,7 +1529,6 @@
 
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
 - [NHAS/reverse_ssh](https://github.com/NHAS/reverse_ssh) - SSH based reverse shell
-- [22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor](https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor) - A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely.
 - [mitre/caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [yaklang/yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
@@ -3216,7 +3215,7 @@
 - [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP) - 中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package www.jionlp.com
 - [ArcletProject/Alconna](https://github.com/ArcletProject/Alconna) - A High-performance, Generality, Humane Python CLI Arguments Parser Library. 一个直观的、高性能、泛用的Python命令行参数解析器集成库
 - [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
-- [kyamagu/skia-python](https://github.com/kyamagu/skia-python) - Python binding to Skia Graphics Library
+- [skia-python/skia-python](https://github.com/skia-python/skia-python) - Python binding to Skia Graphics Library
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
@@ -3625,7 +3624,6 @@
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [NHAS/reverse_ssh](https://github.com/NHAS/reverse_ssh) - SSH based reverse shell
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor](https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor) - A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely.
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
