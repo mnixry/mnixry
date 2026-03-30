@@ -313,6 +313,7 @@
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [johanmodin/clifs](https://github.com/johanmodin/clifs) - Contrastive Language-Image Forensic Search allows free text searching through videos using OpenAI's machine learning model CLIP
+- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [sturdy-dev/suspicious](https://github.com/sturdy-dev/suspicious) - Catching bugs in code with AI, fully local CLI app
 - [samchon/nestia](https://github.com/samchon/nestia) - NestJS Helper + AI Chatbot Development
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -1837,6 +1838,7 @@
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [airgram/airgram](https://github.com/airgram/airgram) - Strict typed library to create Telegram apps with Typescript/JavaScript (based on TDLib 1.8)
+- [Innei/shuffle-article](https://github.com/Innei/shuffle-article) - Shuffle text in the DOM while preserving visual rendering for lightweight copy protection.
 - [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -1864,7 +1866,6 @@
 ## jenkins 
 
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
-- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 
 ## jetpack-compose 
 
@@ -2578,7 +2579,7 @@
 - [vusec/slam](https://github.com/vusec/slam) - Spectre based on Linear Address Masking
 - [memtest86plus/memtest86plus](https://github.com/memtest86plus/memtest86plus) - Official repo for Memtest86+
 - [RazTools/Studio](https://github.com/RazTools/Studio) - Modded AssetStudio with new features
-- [suchipi/quickjs](https://github.com/suchipi/quickjs) - Standalone or embeddable C99 JavaScript Engine
+- [suchipi/quickjs](https://github.com/suchipi/quickjs) - Standalone or embeddable C JavaScript Engine
 - [efchatz/pandora](https://github.com/efchatz/pandora) - A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.
 - [Zerx0r/dvenom](https://github.com/Zerx0r/dvenom) - 🐍 Double Venom (DVenom) is a tool that provides an encryption wrapper and loader for your shellcode.
 - [zydezu/ModernX](https://github.com/zydezu/ModernX) - A fork of modernX (an mpv OSC), fixing bugs and adding features. See my latest modernX builds and my mpv config here: https://github.com/zydezu/mpvconfig
@@ -2802,7 +2803,6 @@
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [THUDM/Chinese-Transformer-XL](https://github.com/THUDM/Chinese-Transformer-XL) - 
 - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model
-- [Innei/shuffle-article](https://github.com/Innei/shuffle-article) - 在 DOM 上打乱文字，而非视觉上。
 - [Xposed-Modules-Repo/com.example.vcam](https://github.com/Xposed-Modules-Repo/com.example.vcam) - 虚拟摄像头 virtual camera
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [dmarman/sha256algorithm](https://github.com/dmarman/sha256algorithm) - Sha256 Algorithm Explained
@@ -3920,6 +3920,7 @@
 - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [airgram/airgram](https://github.com/airgram/airgram) - Strict typed library to create Telegram apps with Typescript/JavaScript (based on TDLib 1.8)
+- [Innei/shuffle-article](https://github.com/Innei/shuffle-article) - Shuffle text in the DOM while preserving visual rendering for lightweight copy protection.
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [kokororin/pixiv.moe](https://github.com/kokororin/pixiv.moe) - 😘 A pinterest-style layout site, shows illusts on pixiv.net order by popularity.
