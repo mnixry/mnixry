@@ -91,6 +91,7 @@
 - [emulator](#emulator)
 - [es6](#es6)
 - [eslint](#eslint)
+- [esp32](#esp32)
 - [ethereum](#ethereum)
 - [express](#express)
 - [fastapi](#fastapi)
@@ -1221,6 +1222,10 @@
 
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+
+## esp32 
+
+- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 
 ## ethereum 
 
@@ -2442,6 +2447,7 @@
 
 ## others 
 
+- [JRMurr/tix](https://github.com/JRMurr/tix) - A nix type checker/lsp
 - [ncruces/wasm2go](https://github.com/ncruces/wasm2go) - A Wasm to Go translator
 - [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec) - A headless, extendable, multi-session, IDA Pro MCP framework.
 - [xsleaks/wiki](https://github.com/xsleaks/wiki) - XS-Leaks Wiki
