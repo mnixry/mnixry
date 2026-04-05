@@ -2447,6 +2447,7 @@
 
 ## others 
 
+- [intel/intel-lpmd](https://github.com/intel/intel-lpmd) - 
 - [JRMurr/tix](https://github.com/JRMurr/tix) - A nix type checker/lsp
 - [ncruces/wasm2go](https://github.com/ncruces/wasm2go) - A Wasm to Go translator
 - [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec) - A headless, extendable, multi-session, IDA Pro MCP framework.
