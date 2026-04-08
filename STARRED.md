@@ -2456,6 +2456,7 @@
 
 ## others 
 
+- [shigma/morphix](https://github.com/shigma/morphix) - Mutate and observe Rust data structures.
 - [intel/intel-lpmd](https://github.com/intel/intel-lpmd) - 
 - [JRMurr/tix](https://github.com/JRMurr/tix) - A nix type checker/lsp
 - [ncruces/wasm2go](https://github.com/ncruces/wasm2go) - A Wasm to Go translator
