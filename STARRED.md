@@ -860,7 +860,7 @@
 - [deut-erium/RNGeesus](https://github.com/deut-erium/RNGeesus) - SMT based attacks on non cryptographic PRNGs
 - [jvdsn/crypto-attacks](https://github.com/jvdsn/crypto-attacks) - Python implementations of cryptographic attacks and utilities.
 - [UniiemStudio/CTFever](https://github.com/UniiemStudio/CTFever) - Fantastic toolkit for CTFers and everyone.
-- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+- [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 - [RsaCtfTool/RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) - RSA attack tool (mainly for ctf) - retrieve private key from weak public key and/or uncipher data
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 
