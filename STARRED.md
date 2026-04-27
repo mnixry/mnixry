@@ -931,6 +931,7 @@
 
 ## data-analysis 
 
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [h2oai/nitro](https://github.com/h2oai/nitro) - Create apps 10x quicker, without Javascript/HTML/CSS.
 - [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
@@ -944,6 +945,7 @@
 ## data-science 
 
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [h2oai/nitro](https://github.com/h2oai/nitro) - Create apps 10x quicker, without Javascript/HTML/CSS.
 - [BlazingDB/blazingsql](https://github.com/BlazingDB/blazingsql) - BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
 - [sreeharierk/datascience](https://github.com/sreeharierk/datascience) - This repository is a compilation of free resources for learning Data Science.
@@ -957,6 +959,7 @@
 
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 
@@ -1037,6 +1040,7 @@
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [h2oai/nitro](https://github.com/h2oai/nitro) - Create apps 10x quicker, without Javascript/HTML/CSS.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -1460,7 +1464,7 @@
 
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
-- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The tiniest authentication and authorization server you have ever seen.
+- [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest authentication and authorization server you have ever seen.
 - [swaggest/rest](https://github.com/swaggest/rest) - Web services with OpenAPI and JSON Schema done quick in Go
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 - [ezh0v/socks5](https://github.com/ezh0v/socks5) - A fully featured implementation of the SOCKS 5 protocol in golang. Command CONNECT ✅, BIND 🛠, UDP ASSOCIATE ✅.
@@ -2797,7 +2801,7 @@
 - [Conobi/politiscales](https://github.com/Conobi/politiscales) - 🔍👁️‍🗨️ Updated and multilingual PolitiScales
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [BlueSky-07/Shuang](https://github.com/BlueSky-07/Shuang) - :pencil2: 双拼练习
-- [cordiverse/minato](https://github.com/cordiverse/minato) - Type Driven Database Framework.
+- [cordiverse/database](https://github.com/cordiverse/database) - Type Driven Database Framework.
 - [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
 - [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
 - [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
@@ -4110,7 +4114,6 @@
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -4145,6 +4148,7 @@
 
 - [kennylimz/anime-character-guessr](https://github.com/kennylimz/anime-character-guessr) - 猜二次元角色
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [h2oai/nitro](https://github.com/h2oai/nitro) - Create apps 10x quicker, without Javascript/HTML/CSS.
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
 - [kokororin/pixiv.moe](https://github.com/kokororin/pixiv.moe) - 😘 A pinterest-style layout site, shows illusts on pixiv.net order by popularity.
