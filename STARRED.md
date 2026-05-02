@@ -2470,6 +2470,7 @@
 
 ## others 
 
+- [brsvh/chinese-fonts-overlay](https://github.com/brsvh/chinese-fonts-overlay) - Chinese fonts collection for Nix/NixOS user.
 - [riseproject-dev/riscv-runner](https://github.com/riseproject-dev/riscv-runner) - 
 - [yeswehack/Dom-Explorer](https://github.com/yeswehack/Dom-Explorer) - 
 - [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
