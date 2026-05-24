@@ -2486,6 +2486,7 @@
 
 ## others 
 
+- [Esonhugh/ibkr-trade-analyzer](https://github.com/Esonhugh/ibkr-trade-analyzer) - Claude Code plugin: Analyze Interactive Brokers (IBKR) trading history — P&L, portfolio, fees, patterns, fx. Read-only Flex API access.
 - [fast/fastrace](https://github.com/fast/fastrace) - A tracing library 10~100x faster than others.
 - [fast/exn](https://github.com/fast/exn) - A context-aware concrete Error type built on core::error::Error.
 - [material-extensions/material-icons-browser-extension](https://github.com/material-extensions/material-icons-browser-extension) - Material Design icons for web browsers
