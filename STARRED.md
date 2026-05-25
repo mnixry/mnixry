@@ -2494,7 +2494,7 @@
 - [riseproject-dev/riscv-runner](https://github.com/riseproject-dev/riscv-runner) - 
 - [yeswehack/Dom-Explorer](https://github.com/yeswehack/Dom-Explorer) - 
 - [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
-- [shigma/morphix](https://github.com/shigma/morphix) - Mutate and observe Rust data structures.
+- [shigma/muon](https://github.com/shigma/muon) - Mutate and observe Rust data structures.
 - [intel/intel-lpmd](https://github.com/intel/intel-lpmd) - 
 - [JRMurr/tix](https://github.com/JRMurr/tix) - A nix type checker/lsp
 - [ncruces/wasm2go](https://github.com/ncruces/wasm2go) - A Wasm to Go translator
@@ -2549,7 +2549,7 @@
 - [suqi8/OShin](https://github.com/suqi8/OShin) - 一个专为ColorOS系统设计的辅助模块
 - [kooritea/fcmfix](https://github.com/kooritea/fcmfix) - [xposed]让fcm唤醒已完全停止的应用
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
-- [dyhkwong/Exclave](https://github.com/dyhkwong/Exclave) - Proxy client
+- [ExclaveNetwork/Exclave](https://github.com/ExclaveNetwork/Exclave) - Proxy client
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
 - [yandex/perforator](https://github.com/yandex/perforator) - Perforator is a cluster-wide continuous profiling tool designed for large data centers
