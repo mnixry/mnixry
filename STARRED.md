@@ -1767,7 +1767,7 @@
 
 ## ios 
 
-- [Eslzzyl/Pixiv-SwiftUI](https://github.com/Eslzzyl/Pixiv-SwiftUI) - 一个 Pixiv 客户端，支持 iOS/iPadOS/macOS
+- [Eslzzyl/Pixiv-SwiftUI](https://github.com/Eslzzyl/Pixiv-SwiftUI) - 为现代 Apple 平台设计的第三方 Pixiv 客户端，支持 iOS/iPadOS/macOS
 - [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [open-obfuscator/o-mvll](https://github.com/open-obfuscator/o-mvll) - :electron: O-MVLL is a code obfuscation tool based on LLVM for native code (Android and iOS).
@@ -2126,7 +2126,7 @@
 
 ## macos 
 
-- [Eslzzyl/Pixiv-SwiftUI](https://github.com/Eslzzyl/Pixiv-SwiftUI) - 一个 Pixiv 客户端，支持 iOS/iPadOS/macOS
+- [Eslzzyl/Pixiv-SwiftUI](https://github.com/Eslzzyl/Pixiv-SwiftUI) - 为现代 Apple 平台设计的第三方 Pixiv 客户端，支持 iOS/iPadOS/macOS
 - [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
@@ -3788,7 +3788,7 @@
 
 ## swiftui 
 
-- [Eslzzyl/Pixiv-SwiftUI](https://github.com/Eslzzyl/Pixiv-SwiftUI) - 一个 Pixiv 客户端，支持 iOS/iPadOS/macOS
+- [Eslzzyl/Pixiv-SwiftUI](https://github.com/Eslzzyl/Pixiv-SwiftUI) - 为现代 Apple 平台设计的第三方 Pixiv 客户端，支持 iOS/iPadOS/macOS
 - [TheResonanceTeam/TrollApps](https://github.com/TheResonanceTeam/TrollApps) - App Store alternative for TrollStore
 - [underthestars-zhy/IconChanger](https://github.com/underthestars-zhy/IconChanger) - Simply change your app's icon on macOS. Just a click.
 - [thebaselab/codeapp](https://github.com/thebaselab/codeapp) - Building a full-fledged code editor for iPad
