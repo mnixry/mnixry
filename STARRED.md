@@ -191,7 +191,6 @@
 - [npm](#npm)
 - [numpy](#numpy)
 - [objective-c](#objective-c)
-- [obsidian](#obsidian)
 - [open-source](#open-source)
 - [openai](#openai)
 - [opencv](#opencv)
@@ -2445,10 +2444,6 @@
 
 - [sohsatoh/ReProvision-Reborn](https://github.com/sohsatoh/ReProvision-Reborn) - On-device iOS app re-signing utility for jailbroken devices
 
-## obsidian 
-
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-
 ## open-source 
 
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Code, Claude Design, Opus 4.8, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex, Google - Gemini - 3.5 Flash, 3.1 Pro, Antigravity, xA
@@ -2492,6 +2487,7 @@
 
 ## others 
 
+- [acomagu/fish-async-prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous to improve the reactivity.
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [Esonhugh/ibkr-trade-analyzer](https://github.com/Esonhugh/ibkr-trade-analyzer) - Claude Code plugin: Analyze Interactive Brokers (IBKR) trading history — P&L, portfolio, fees, patterns, fx. Read-only Flex API access.
 - [fast/fastrace](https://github.com/fast/fastrace) - A tracing library 10~100x faster than others.
