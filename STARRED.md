@@ -867,7 +867,7 @@
 
 ## crawler 
 
-- [0x676e67/wreq](https://github.com/0x676e67/wreq) - An ergonomic, censorship-resistant Rust HTTP client
+- [0x676e67/wreq](https://github.com/0x676e67/wreq) - An ergonomic, censorship-resistant Rust HTTP Client
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python.
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
@@ -1726,7 +1726,7 @@
 
 - [canmi21/vane](https://github.com/canmi21/vane) - A compact programmable proxy engine.
 - [cle-b/httpdbg](https://github.com/cle-b/httpdbg) - A tool for Python developers to easily debug the HTTP(S) client and server requests in a Python program.
-- [0x676e67/wreq](https://github.com/0x676e67/wreq) - An ergonomic, censorship-resistant Rust HTTP client
+- [0x676e67/wreq](https://github.com/0x676e67/wreq) - An ergonomic, censorship-resistant Rust HTTP Client
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
@@ -1744,7 +1744,7 @@
 
 ## https 
 
-- [0x676e67/wreq](https://github.com/0x676e67/wreq) - An ergonomic, censorship-resistant Rust HTTP client
+- [0x676e67/wreq](https://github.com/0x676e67/wreq) - An ergonomic, censorship-resistant Rust HTTP Client
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
@@ -3534,7 +3534,7 @@
 - [ThisSeanZhang/landscape](https://github.com/ThisSeanZhang/landscape) - The goal is to make it easier to configure your favorite Linux distribution as a router. Built with Rust and eBPF.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [0x676e67/wreq](https://github.com/0x676e67/wreq) - An ergonomic, censorship-resistant Rust HTTP client
+- [0x676e67/wreq](https://github.com/0x676e67/wreq) - An ergonomic, censorship-resistant Rust HTTP Client
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - Repository for advanced Red Team techniques focused on Rust
 - [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas aims to be a production-grade Linux alternative—memory safe, high-performance, and more.
