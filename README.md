@@ -18,7 +18,7 @@
 
 ## I'm **Mix**
 
-- 🔭 I’m currently seeking for job position
+- 🔭 I’m currently working as backend developer
 
 <!-- - 👯 I’m collaborating on: [mixmoe](https://github.com/mixmoe) and [NoneBot](https://github.com/nonebot) -->
 
