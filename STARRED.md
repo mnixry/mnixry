@@ -317,6 +317,7 @@
 ## agent-skills 
 
 - [himself65/finance-skills](https://github.com/himself65/finance-skills) - A collection of skills for AI financial analysis.
+- [dhvcc/rss-parser](https://github.com/dhvcc/rss-parser) - Typed pythonic RSS/Atom parser: RSS 2.0/0.9x, Atom 1.0, RSS 1.0 (RDF) and podcasts into pydantic v2 models, plus a CLI
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 
 ## agents 
@@ -516,7 +517,7 @@
 
 ## atom 
 
-- [dhvcc/rss-parser](https://github.com/dhvcc/rss-parser) - Type-safe RSS and Atom parsing module built using xmltodict and pydantic
+- [dhvcc/rss-parser](https://github.com/dhvcc/rss-parser) - Typed pythonic RSS/Atom parser: RSS 2.0/0.9x, Atom 1.0, RSS 1.0 (RDF) and podcasts into pydantic v2 models, plus a CLI
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
 
 ## automation 
@@ -748,6 +749,7 @@
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
+- [dhvcc/rss-parser](https://github.com/dhvcc/rss-parser) - Typed pythonic RSS/Atom parser: RSS 2.0/0.9x, Atom 1.0, RSS 1.0 (RDF) and podcasts into pydantic v2 models, plus a CLI
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -3227,7 +3229,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [drivendataorg/erdantic](https://github.com/drivendataorg/erdantic) - Entity relationship diagrams for Python data model classes like Pydantic
-- [dhvcc/rss-parser](https://github.com/dhvcc/rss-parser) - Type-safe RSS and Atom parsing module built using xmltodict and pydantic
+- [dhvcc/rss-parser](https://github.com/dhvcc/rss-parser) - Typed pythonic RSS/Atom parser: RSS 2.0/0.9x, Atom 1.0, RSS 1.0 (RDF) and podcasts into pydantic v2 models, plus a CLI
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
 - [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - inline-snapshot boosts efficiency when writing tests by generating code with the expected values and simplifies snapshot tests with pytest.
@@ -3340,7 +3342,7 @@
 ## python3 
 
 - [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator) - Deobfuscate "paranoid" protected apps
-- [dhvcc/rss-parser](https://github.com/dhvcc/rss-parser) - Type-safe RSS and Atom parsing module built using xmltodict and pydantic
+- [dhvcc/rss-parser](https://github.com/dhvcc/rss-parser) - Typed pythonic RSS/Atom parser: RSS 2.0/0.9x, Atom 1.0, RSS 1.0 (RDF) and podcasts into pydantic v2 models, plus a CLI
 - [mixmoe/HibiAPI](https://github.com/mixmoe/HibiAPI) - 一个实现了多种常用站点的易用化API的程序 / A program that implements easy-to-use APIs for a variety of commonly used sites.
 - [HumanSignal/labelImg](https://github.com/HumanSignal/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source dat
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -4327,7 +4329,7 @@
 ## xml 
 
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
-- [dhvcc/rss-parser](https://github.com/dhvcc/rss-parser) - Type-safe RSS and Atom parsing module built using xmltodict and pydantic
+- [dhvcc/rss-parser](https://github.com/dhvcc/rss-parser) - Typed pythonic RSS/Atom parser: RSS 2.0/0.9x, Atom 1.0, RSS 1.0 (RDF) and podcasts into pydantic v2 models, plus a CLI
 
 ## youtube 
 
