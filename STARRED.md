@@ -361,6 +361,7 @@
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, 
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
+- [itmeo/webgradients](https://github.com/itmeo/webgradients) - 180 free CSS3, Figma, Sketch & PSD gradients — plus a JSON dataset for design tools, generators, and AI agents.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 
 ## ajax 
@@ -940,7 +941,7 @@
 - [webtui/webtui](https://github.com/webtui/webtui) - Modular CSS Library that brings the beauty of Terminal UIs to the browser
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python.
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
-- [itmeo/webgradients](https://github.com/itmeo/webgradients) - 180 linear gradients in CSS3, Figma, Sketch and PSD formats — free for personal and commercial use
+- [itmeo/webgradients](https://github.com/itmeo/webgradients) - 180 free CSS3, Figma, Sketch & PSD gradients — plus a JSON dataset for design tools, generators, and AI agents.
 - [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [ines/termynal](https://github.com/ines/termynal) - ⬛️ Lightweight and modern terminal animations using async/await
@@ -1074,7 +1075,7 @@
 ## design 
 
 - [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - Google's Material Design in XAML & WPF, for C# & VB.Net.
-- [itmeo/webgradients](https://github.com/itmeo/webgradients) - 180 linear gradients in CSS3, Figma, Sketch and PSD formats — free for personal and commercial use
+- [itmeo/webgradients](https://github.com/itmeo/webgradients) - 180 free CSS3, Figma, Sketch & PSD gradients — plus a JSON dataset for design tools, generators, and AI agents.
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 
 ## developer-tools 
@@ -1397,7 +1398,7 @@
 
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
-- [itmeo/webgradients](https://github.com/itmeo/webgradients) - 180 linear gradients in CSS3, Figma, Sketch and PSD formats — free for personal and commercial use
+- [itmeo/webgradients](https://github.com/itmeo/webgradients) - 180 free CSS3, Figma, Sketch & PSD gradients — plus a JSON dataset for design tools, generators, and AI agents.
 - [imcuttle/mometa](https://github.com/imcuttle/mometa) - 🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具 The coding tools which is visual code editing, auxiliary and Low-code metaprogramming for R&D
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 
@@ -1955,6 +1956,7 @@
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
+- [itmeo/webgradients](https://github.com/itmeo/webgradients) - 180 free CSS3, Figma, Sketch & PSD gradients — plus a JSON dataset for design tools, generators, and AI agents.
 - [abersheeran/rpc.py](https://github.com/abersheeran/rpc.py) - A fast and powerful RPC framework based on ASGI/WSGI.
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
@@ -2477,6 +2479,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [t3l3machus/Villain](https://github.com/t3l3machus/Villain) - Villain is a high level stage 0/1 C2 framework that can handle multiple reverse TCP & HoaxShell-based shells, enhance their functionality with additional features (commands, utilities) and share them 
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
+- [itmeo/webgradients](https://github.com/itmeo/webgradients) - 180 free CSS3, Figma, Sketch & PSD gradients — plus a JSON dataset for design tools, generators, and AI agents.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
@@ -3739,7 +3742,7 @@
 
 ## sketch 
 
-- [itmeo/webgradients](https://github.com/itmeo/webgradients) - 180 linear gradients in CSS3, Figma, Sketch and PSD formats — free for personal and commercial use
+- [itmeo/webgradients](https://github.com/itmeo/webgradients) - 180 free CSS3, Figma, Sketch & PSD gradients — plus a JSON dataset for design tools, generators, and AI agents.
 
 ## software 
 
@@ -4060,7 +4063,7 @@
 - [h2oai/nitro](https://github.com/h2oai/nitro) - Create apps 10x quicker, without Javascript/HTML/CSS.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue, Svelte or Vanilla. Powered by finite state machines
-- [itmeo/webgradients](https://github.com/itmeo/webgradients) - 180 linear gradients in CSS3, Figma, Sketch and PSD formats — free for personal and commercial use
+- [itmeo/webgradients](https://github.com/itmeo/webgradients) - 180 free CSS3, Figma, Sketch & PSD gradients — plus a JSON dataset for design tools, generators, and AI agents.
 - [YunYouJun/sese-engine-ui](https://github.com/YunYouJun/sese-engine-ui) - 🔍 Sese engine ui. 色色搜索引擎 UI
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [olexnzarov/pm2-web-ui](https://github.com/olexnzarov/pm2-web-ui) - (Not so) modern web interface for PM2
