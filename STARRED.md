@@ -1224,6 +1224,7 @@
 
 ## electron 
 
+- [YUCLing/open-orpheus](https://github.com/YUCLing/open-orpheus) - An open-source and cross-platform (Linux, macOS, Windows) implementation of Netease Cloud Music's Orpheus browser host. 网易云音乐的Orpheus浏览器宿主的跨平台（Linux、macOS、Windows）开源实现。
 - [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
 - [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
@@ -3820,6 +3821,7 @@
 
 ## svelte 
 
+- [YUCLing/open-orpheus](https://github.com/YUCLing/open-orpheus) - An open-source and cross-platform (Linux, macOS, Windows) implementation of Netease Cloud Music's Orpheus browser host. 网易云音乐的Orpheus浏览器宿主的跨平台（Linux、macOS、Windows）开源实现。
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
 - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) - A module used to arrange card elements including content infinitely on a grid layout.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -3938,7 +3940,6 @@
 ## testing 
 
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-- [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - inline-snapshot boosts efficiency when writing tests by generating code with the expected values and simplifies snapshot tests with pytest.
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -3980,6 +3981,7 @@
 
 ## typescript 
 
+- [YUCLing/open-orpheus](https://github.com/YUCLing/open-orpheus) - An open-source and cross-platform (Linux, macOS, Windows) implementation of Netease Cloud Music's Orpheus browser host. 网易云音乐的Orpheus浏览器宿主的跨平台（Linux、macOS、Windows）开源实现。
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
 - [Tencent/tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next) - A Vue3.x UI components lib for TDesign.
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
