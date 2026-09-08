@@ -2522,6 +2522,7 @@
 
 ## others 
 
+- [GalvinGao/ghdiff](https://github.com/GalvinGao/ghdiff) - Blazing-fast PR reviewer
 - [pascal-lab/vide](https://github.com/pascal-lab/vide) - A Modern SystemVerilog Coding IDE.
 - [zereight/gitlab-mcp](https://github.com/zereight/gitlab-mcp) - First gitlab mcp for you, building together
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
