@@ -1761,6 +1761,7 @@
 
 ## http 
 
+- [tonbo-io/ursula](https://github.com/tonbo-io/ursula) - Distributed event stream server over HTTP, backed by S3.
 - [canmi21/vane](https://github.com/canmi21/vane) - A compact programmable proxy engine.
 - [cle-b/httpdbg](https://github.com/cle-b/httpdbg) - A tool for Python developers to easily debug the HTTP(S) client and server requests in a Python program.
 - [0x676e67/wreq](https://github.com/0x676e67/wreq) - An ergonomic, privacy-aware Rust HTTP Client
@@ -3582,6 +3583,7 @@
 
 ## rust 
 
+- [tonbo-io/ursula](https://github.com/tonbo-io/ursula) - Distributed event stream server over HTTP, backed by S3.
 - [nowledge-co/con-terminal](https://github.com/nowledge-co/con-terminal) - The Native Terminal Emulator with a builtin AI Harness
 - [shepmaster/snafu](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context
 - [state-machines/state-machines-rs](https://github.com/state-machines/state-machines-rs) - Compile-time state machine DSL for Rust, inspired by the Ruby state_machines gem.
