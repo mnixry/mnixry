@@ -2972,7 +2972,7 @@
 - [G41mywaifu/nonebot2_plugin](https://github.com/G41mywaifu/nonebot2_plugin) - nonebot2插件
 - [psc4re/NSE-scripts](https://github.com/psc4re/NSE-scripts) - NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST, CVE-2021-21972, proxyshell, CVE-2021-34473
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-- [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一款基于 Vue3、Vite3 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求
+- [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - 基于 Vue 3、Vite 7、Naive UI 与 TypeScript 的开源中后台解决方案。内置二次封装组件、动态菜单、路由与按钮级权限、国际化，开箱即用，助力快速搭建企业级中后台。
 - [baidusama/EroPassword](https://github.com/baidusama/EroPassword) - 一些常用的解压密码（包括但不限于本子、里番、galgame）
 - [GreyElaina/mr-cli](https://github.com/GreyElaina/mr-cli) - 
 - [ddgth/cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
