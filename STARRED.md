@@ -1067,7 +1067,7 @@
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [electric-sql/electric-pglite](https://github.com/electric-sql/electric-pglite) - Embeddable Postgres with real-time, reactive bindings.
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - learn database internals by building a storage engine in Rust
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as an educational project
 - [ravendb/ravendb](https://github.com/ravendb/ravendb) - ACID Document Database
@@ -2701,7 +2701,7 @@
 - [smorimoto/tune-github-hosted-runner-network](https://github.com/smorimoto/tune-github-hosted-runner-network) - OS-neutral interface to disable TCP/UDP offload to fix flaky networking on GitHub-hosted runners
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive load is what matters
 - [ucb-bar/riscv-sodor](https://github.com/ucb-bar/riscv-sodor) - educational microarchitectures for risc-v isa
-- [osm0sis/PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork) - Fix Play Integrity &lt;A13 verdicts, allowing custom fields and props
+- [osm0sis/PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork) - Fix Play Integrity verdicts, allowing custom fields and props
 - [Cactus-proj/A-Philosophy-of-Software-Design-zh](https://github.com/Cactus-proj/A-Philosophy-of-Software-Design-zh) - 《软件设计的哲学》中文翻译 | Chinese translation of A Philosophy of Software Design
 - [orangeduck/Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
 - [KDE/heaptrack](https://github.com/KDE/heaptrack) - A heap memory profiler for Linux
